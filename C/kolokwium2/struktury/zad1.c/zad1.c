@@ -11,8 +11,9 @@ void wyswietl(struct studenci st[], int n);
 void najwiekszy(struct studenci st[], int n);
 int main(){
     int n;
-    struct studenci st[n];
+    
     printf("Podaj liczbe studentow"); scanf("%d",&n);
+    struct studenci st[n];
     wczytaj(st,n);
     printf("Dane studentow\n");
     wyswietl(st,n);
@@ -39,7 +40,7 @@ void  wczytaj(struct studenci st[], int n)
 }
 void wyswietl(struct studenci st[], int n){
     for(int i = 0; i < n; i++){
-    printf("Imie %s\n Nazwisko: %s\n Numerek: %d", st[i].imie, st[i].nazwisko, st[i].numerek);
+    printf("Imie %s\n Nazwisko: %s\n Numerek: %d\n", st[i].imie, st[i].nazwisko, st[i].numerek);
     }
 }
 void najwiekszy(struct studenci st[], int n){
