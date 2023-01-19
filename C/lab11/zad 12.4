@@ -1,0 +1,18 @@
+#include <stdio.h>
+#include <string.h>
+
+void align_left(char *text, int width) {
+  int text_len = strlen(text);
+  printf("%s", text);
+  for (int i = text_len; i < width; i++) {
+    printf(" ");
+  }
+}
+
+void align_right(char *text, int width) {
+  int text_len = strlen(text);
+  for (int i = text_len; i < width; i++) {
+    printf(" ");
+  }
+  printf("%s", text);
+}
