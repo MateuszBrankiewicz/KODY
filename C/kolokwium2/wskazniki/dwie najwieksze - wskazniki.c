@@ -12,7 +12,7 @@ float wyznaczanie(float *m2){
     int n; 
     float m1;
     float l; 
-    printf("Ilosc liczb");scanf("%d", &n);
+    printf("Ilosc liczbTest");scanf("%d", &n);
     for (int i = 0; i < n; i++){
         printf("Liczba: ");scanf("%f", &l);
         if (m1 < l){
