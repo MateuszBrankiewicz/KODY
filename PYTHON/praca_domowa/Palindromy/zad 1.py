@@ -1,18 +1,25 @@
-plik = open('C:\\Users\\Szef\\Desktop\\pliki zaliczenia\\palindromy.txt', 'r')
+plik = open('C:\\Users\\Szef\\Desktop\\GIT\\KODY\\PYTHON\\praca_domowa\\Palindromy\\palindromy.txt', 'r')
 dane = plik.readlines()
 # print(dane)
-plik2 = open('C:\\Users\\Szef\\Desktop\\pliki zaliczenia\\palindromy_wynik.txt', 'w')
+plik2 = open('C:\\Users\\Szef\\Desktop\\GIT\\KODY\\PYTHON\\praca_domowa\\Palindromy\\palindromy_wynik.txt', 'w')
 for i in range(len(dane)):
     dane[i] = dane[i].replace('\n','')
     dane[i] = dane[i].replace(" ","")
-    
+    dane[i] = dane[i].replace('-',"")
+    dane[i] = dane[i].replace(',',"")
+    dane[i] = dane[i].replace('_',"")
+    dane[i] = dane[i].replace('!',"")
+    dane[i] = dane[i].lower()
     if dane[i] == dane[i][::-1]:
-        plik2.write(dane[i])
+        tekst = str(i) + " " + dane[i] + " "+ dane[i][::-1] + str(" Jest palindromem")
+        plik2.write(tekst)
         plik2.write('\n')
     else:
-        pass
+        tekst = str(i)+" " + dane[i]+" " + dane[i][::-1]
+        plik2.write(tekst)
+        plik2.write('\n')
         
-print(dane)
+
 
 plik.close()
 plik2.close()
