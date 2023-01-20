@@ -18,9 +18,12 @@ for i in range(len(dane)):
     for j in range(3):
         dane[i][j] = int(dane[i][j])
 print(dane)
- 
+plikout= open("C:\\Users\\Szef\\Desktop\\trojki_plik2.txt","w")
 for i in range(len(dane)):
     x = dane[i][0]
     y = dane[i][1]
     z = dane[i][2]
     print(i,dane[i],x+y+z)
+    tekst = str(i) + str(x) + str(y) +'\n'
+    plikout.write(tekst)
+plikout.close
