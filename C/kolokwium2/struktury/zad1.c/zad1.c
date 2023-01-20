@@ -34,8 +34,7 @@ void  wczytaj(struct studenci st[], int n)
         printf("Podaj imie"); gets(st[i].imie);
         fflush(stdin);
         printf("Podaj nazwisko"); gets(st[i].nazwisko);
-        st[i].numerek = rand();
-    
+        st[i].numerek = rand()%10;
 }
 }
 void wyswietl(struct studenci st[], int n){
@@ -47,11 +46,11 @@ void najwiekszy(struct studenci st[], int n){
     int najwiekszy, i;
     najwiekszy = st[0].numerek;
     for( i = 0; i <n; i++){
-        if(st[i].numerek < najwiekszy){
+        if(st[i].numerek > najwiekszy){
             najwiekszy = st[i].numerek;
         }
-    }
-    printf("Student ktory wygrał:\n%s %s %d", st[i].imie, st[i].nazwisko, st[i].numerek);
+    }  
+    printf("Numerek ktory wygral %d", najwiekszy);
 
 
 
