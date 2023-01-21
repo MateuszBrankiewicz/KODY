@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Szef/Documents/Programowanie strukturalne/KODY/C/kolokwium2/struktury",
-      "program": "c:/Users/Szef/Documents/Programowanie strukturalne/KODY/C/kolokwium2/struktury/build/Debug/outDebug",
+      "cwd": "C:/Users/Szef/Desktop/GIT/KODY/C/kolokwium2/struktury",
+      "program": "C:/Users/Szef/Desktop/GIT/KODY/C/kolokwium2/struktury/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
