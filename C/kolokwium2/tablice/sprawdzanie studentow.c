@@ -27,7 +27,13 @@ void wczytaj(float *tab,int n){
 
 char sprawdzam(float *tab,int n){
     for(int i = 0; i<n ; i++){
-        if (*(tab+i) < 3){
-            return 0 ;
+        if (*(tab+i) >= 3){
+            continue;
+            
         }
-        else return 1;}}
+        else{
+            
+            return 0;
+            
+            
+        } }}
