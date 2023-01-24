@@ -16,6 +16,7 @@ int main() {
         printf("%s\n", wyrazy[i]);
     }
     return 0;
+    system("PAUSE");
 }
 void sortuj(char wyrazy[5][4]) {
     char temp[4];

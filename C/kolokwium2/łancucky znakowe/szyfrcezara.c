@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 void zaszyfruj(char *lancuch);
 void odszyfruj(char *lancuch);
 
