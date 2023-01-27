@@ -1,0 +1,1046 @@
+1 Litwo! Ojczyzno moja! ty jestes jak zdrowie.   Liczba samoglosek: i=2 o=5 y=2 a=2 e=3 
+2 Ile cie trzeba cenic, ten tylko sie dowie,   Liczba samoglosek: i=5 e=7 a=1 y=1 o=2 
+3 Kto cie stracil. Dzis pieknosc twa w calej ozdobie   Liczba samoglosek: o=4 i=5 e=4 a=3 
+4 Widze i opisuje, bo tesknie po tobie.   Liczba samoglosek: i=5 e=5 o=4 u=1 
+5 Panno swieta, co jasnej bronisz Czestochowy   Liczba samoglosek: a=3 o=5 i=2 e=3 y=1 
+6 I w Ostrej swiecisz Bramie! Ty, co grod zamkowy   Liczba samoglosek: i=4 o=4 e=3 a=2 y=2 
+7 Nowogrodzki ochraniasz z jego wiernym ludem!   Liczba samoglosek: o=5 i=3 a=2 e=3 y=1 u=1 
+8 Jak mnie dziecko do zdrowia powrocilas cudem   Liczba samoglosek: a=3 i=4 e=3 o=5 u=1 
+9 (Gdy od placzacej matki pod Twoja opieke   Liczba samoglosek: y=1 o=4 a=4 e=3 i=2 
+10 Ofiarowany, martwa podnioslem powieke   Liczba samoglosek: o=5 i=3 a=4 y=1 e=3 
+11 I zaraz moglem pieszo do Twych swiatyn progu   Liczba samoglosek: i=3 a=3 o=4 e=2 y=2 u=1 
+12 Isc za wrocone zycie podziekowac Bogu),   Liczba samoglosek: i=3 a=2 o=5 e=3 y=1 u=1 
+13 Tak nas powrocisz cudem na Ojczyzny lono.   Liczba samoglosek: a=3 o=5 i=1 u=1 e=1 y=2 
+14 Tymczasem przenos moje dusze uteskniona   Liczba samoglosek: y=1 a=2 e=5 o=3 u=2 i=1 
+15 Do tych pagorkow lesnych, do tych lak zielonych,   Liczba samoglosek: o=5 y=4 a=2 e=2 i=1 
+16 Szeroko nad blekitnym Niemnem rozciagnionych;   Liczba samoglosek: e=4 o=4 a=2 i=4 y=2 
+17 Do tych pol malowanych zbozem rozmaitem,   Liczba samoglosek: o=5 y=2 a=3 e=2 i=1 
+18 Wyzlacanych pszenica, posrebrzanych zytem;   Liczba samoglosek: y=4 a=4 e=3 i=1 o=1 
+19 Gdzie bursztynowy swierzop, gryka jak snieg biala,   Liczba samoglosek: i=4 e=3 u=1 y=3 o=2 a=4 
+20 Gdzie panienskim rumiencem dziecielina pala,   Liczba samoglosek: i=7 e=6 a=4 u=1 
+21 A wszystko przepasane, jakby wstega, miedza   Liczba samoglosek: a=6 y=2 o=1 e=4 i=1 
+22 Zielona, na niej z rzadka ciche grusze siedza.   Liczba samoglosek: i=4 e=5 o=1 a=5 u=1 
+23 srod takich pol przed laty, nad brzegiem ruczaju,   Liczba samoglosek: o=2 a=4 i=2 e=3 y=1 u=2 
+24 Na pagorku niewielkim, we brzozowym gaju,   Liczba samoglosek: a=3 o=3 u=2 i=3 e=3 y=1 
+25 Stal dwor szlachecki, z drzewa, lecz podmurowany;   Liczba samoglosek: a=4 o=3 e=3 i=1 u=1 y=1 
+26 swiecily sie z daleka pobielane sciany,   Liczba samoglosek: i=5 e=5 y=2 a=4 o=1 
+27 Tym bielsze, ze odbite od ciemnej zieleni   Liczba samoglosek: y=1 i=5 e=8 o=2 
+28 Topoli, co go bronia od wiatrow jesieni.   Liczba samoglosek: o=7 i=5 a=2 e=2 
+29 Dom mieszkalny niewielki, lecz zewszad chedogi,   Liczba samoglosek: o=2 i=5 e=6 a=2 y=1 
+30 I stodole mial wielka, i przy niej trzy stogi   Liczba samoglosek: i=6 o=3 e=3 a=2 y=2 
+31 Uzatku, co pod strzecha zmiescic sie nie moze;   Liczba samoglosek: u=2 a=2 o=3 e=5 i=4 
+32 Widac, ze okolica obfita we zboze,   Liczba samoglosek: i=3 a=3 e=3 o=4 
+33 I widac z liczby kopic, co wzdluz i wszerz smugow   Liczba samoglosek: i=5 a=1 y=1 o=3 u=2 e=1 
+34 swieca gesto jak gwiazdy, widac z liczby plugow   Liczba samoglosek: i=4 e=2 a=4 o=2 y=2 u=1 
+35 Orzacych wczesnie lany ogromne ugoru,   Liczba samoglosek: o=4 a=2 y=2 e=3 i=1 u=2 
+36 Czarnoziemne, zapewne nalezne do dworu,   Liczba samoglosek: a=3 o=3 i=1 e=6 u=1 
+37 Uprawne dobrze na ksztalt ogrodowych grzadek:   Liczba samoglosek: u=1 a=4 e=3 o=4 y=1 
+38 ze w tym domu dostatek mieszka i porzadek.   Liczba samoglosek: e=4 y=1 o=3 u=1 a=3 i=2 
+39 Brama na wciaz otwarta przechodniom oglasza,   Liczba samoglosek: a=8 i=2 o=4 e=1 
+40 ze goscinna i wszystkich w goscine zaprasza.   Liczba samoglosek: e=2 o=2 i=4 a=4 y=1 
+41 Wlasnie dwokonna bryka wjechal mlody panek   Liczba samoglosek: a=5 i=1 e=3 o=3 y=2 
+42 I obieglszy dziedziniec zawrocil przed ganek,   Liczba samoglosek: i=6 o=2 e=5 y=1 a=2 
+43 Wysiadl z powozu; konie porzucone same,   Liczba samoglosek: y=1 i=2 a=2 o=5 u=2 e=3 
+44 Szczypiac trawe ciagnely powoli pod brame.   Liczba samoglosek: y=2 i=3 a=4 e=3 o=3 
+45 We dworze pusto, bo drzwi od ganku zamknieto   Liczba samoglosek: e=3 o=5 u=2 i=2 a=2 
+46 Zaszczepkami i kolkiem zaszczepki przetknieto.   Liczba samoglosek: a=3 e=5 i=5 o=2 
+47 Podrozny do folwarku nie biegl slug zapytac;   Liczba samoglosek: o=4 y=2 a=3 u=2 i=2 e=2 
+48 Odemknal, wbiegl do domu, pragnal go powitac.   Liczba samoglosek: o=5 e=2 a=4 i=2 u=1 
+49 Dawno domu nie widzial, bo w dalekim miescie   Liczba samoglosek: a=3 o=3 u=1 i=6 e=4 
+50 Konczyl nauki, konca doczekal nareszcie.   Liczba samoglosek: o=3 y=1 a=4 u=1 i=2 e=3 
+51 Wbiega i okiem chciwie sciany starodawne   Liczba samoglosek: i=6 e=4 a=4 o=2 y=1 
+52 Oglada czule, jako swe znajome dawne.   Liczba samoglosek: o=3 a=5 u=1 e=4 
+53 Tez same widzi sprzety, tez same obicia,   Liczba samoglosek: e=5 a=3 i=4 y=1 o=1 
+54 Z ktoremi sie zabawiac lubil od powicia;   Liczba samoglosek: o=3 e=2 i=6 a=4 u=1 
+55 Lecz mniej wielkie, mniej piekne, niz sie dawniej zdaly.   Liczba samoglosek: e=9 i=8 a=2 y=1 
+56 I tez same portrety na scianach wisialy.   Liczba samoglosek: i=4 e=3 a=5 o=1 y=2 
+57 Tu Kosciuszko w czamarce krakowskiej, z oczyma   Liczba samoglosek: u=2 o=4 i=2 a=4 e=2 y=1 
+58 Podniesionymi w niebo, miecz oburacz trzyma;   Liczba samoglosek: o=4 i=5 e=3 y=2 u=1 a=2 
+59 Takim byl, gdy przysiegal na stopniach oltarzow,   Liczba samoglosek: a=5 i=3 y=3 e=1 o=3 
+60 ze tym mieczem wypedzi z Polski trzech mocarzow   Liczba samoglosek: e=5 y=2 i=3 o=3 a=1 
+61 Albo sam na nim padnie. Dalej w polskiej szacie   Liczba samoglosek: a=6 o=2 i=4 e=4 
+62 Siedzi Rejtan zalosny po wolnosci stracie,   Liczba samoglosek: i=4 e=3 a=3 o=4 y=1 
+63 W reku trzymna noz, ostrzem zwrocony do lona,   Liczba samoglosek: e=2 u=1 y=2 a=2 o=6 
+64 A przed nim lezy Fedon i zywot Katona.   Liczba samoglosek: a=3 e=3 i=2 y=2 o=3 
+65 Dalej Jasinski, mlodzian piekny i posepny,   Liczba samoglosek: a=3 e=3 i=5 o=2 y=2 
+66 Obok Korsak, towarzysz jego nieodstepny,   Liczba samoglosek: o=6 a=2 y=2 e=3 i=1 
+67 Stoja na szancach Pragi, na stosach Moskali,   Liczba samoglosek: o=3 a=8 i=2 
+68 Siekac wrogow, a Praga juz sie wkolo pali.   Liczba samoglosek: i=3 e=2 a=5 o=4 u=1 
+69 Nawet stary stojacy zegar kurantowy   Liczba samoglosek: a=5 e=2 y=3 o=2 u=1 
+70 W drewnianej szafie poznal u wniscia alkowy   Liczba samoglosek: e=3 i=4 a=5 o=2 u=1 y=1 
+71 I z dziecinna radoscia pociagnal za sznurek,   Liczba samoglosek: i=5 e=2 a=6 o=2 u=1 
+72 By stary Dabrowskiego uslyszec mazurek.   Liczba samoglosek: y=3 a=3 o=2 i=1 e=3 u=2 
+73 Biegal po calym domu i szukal komnaty,   Liczba samoglosek: i=2 e=1 a=4 o=3 y=2 u=2 
+74 Gdzie mieszkal, dzieckiem bedac, przed dziesieciu laty.   Liczba samoglosek: i=7 e=8 a=3 u=1 y=1 
+75 Wchodzi, cofnal sie, toczyl zdumione zrenice   Liczba samoglosek: o=4 i=4 a=1 e=4 y=1 u=1 
+76 Po scianach: w tej komnacie mieszkanie kobiece?   Liczba samoglosek: o=3 i=5 a=4 e=6 
+77 Ktoz by tu mieszkal? Stary stryj nie byl zonaty,   Liczba samoglosek: o=2 y=5 u=1 i=2 e=2 a=3 
+78 A ciotka w Petersburgu mieszkala przed laty.   Liczba samoglosek: a=5 i=2 o=1 e=4 u=2 y=1 
+79 To nie byl ochmistrzyni pokoj! Fortepiano?   Liczba samoglosek: o=6 i=4 e=2 y=2 a=1 
+80 Na niem noty i ksiazki; wszystko porzucano   Liczba samoglosek: a=3 i=4 e=1 o=4 y=2 u=1 
+81 Niedbale i bezladnie; nieporzadek mily!   Liczba samoglosek: i=5 e=6 a=3 o=1 y=1 
+82 Niestare byly raczki, co je tak rzucily.   Liczba samoglosek: i=3 e=3 a=3 y=3 o=1 u=1 
+83 Tuz i sukienka biala, swiezo z kolka zdjeta   Liczba samoglosek: u=2 i=4 e=3 a=5 o=2 
+84 Do ubrania, na krzesla poreczu rozpieta.   Liczba samoglosek: o=3 u=2 a=5 i=2 e=3 
+85 A na oknach donice z pachnacymi ziolki,   Liczba samoglosek: a=5 o=3 i=4 e=1 y=1 
+86 Geranium, lewkonija, astry i fijolki.   Liczba samoglosek: e=2 a=3 i=5 u=1 o=2 y=1 
+87 Podrozny stanal w jednym z okien - nowe dziwo:   Liczba samoglosek: o=5 y=2 a=2 e=3 i=2 
+88 W sadzie, na brzegu niegdys zaroslym pokrzywa,   Liczba samoglosek: a=4 i=2 e=3 u=1 y=3 o=2 
+89 Byl malenki ogrodek, sciezkami porzniety,   Liczba samoglosek: y=2 a=2 e=4 i=4 o=3 
+90 Pelen bukietow trawy angielskiej i miety.   Liczba samoglosek: e=6 u=1 i=5 o=1 a=2 y=2 
+91 Drewniany, drobny, w cyfre powiazany plotek   Liczba samoglosek: e=3 i=2 a=3 y=4 o=3 
+92 Polyskal sie wstazkami jaskrawych stokrotek.   Liczba samoglosek: o=3 y=2 a=5 i=2 e=2 
+93 Grzadki widac, ze byly swiezo polewane;   Liczba samoglosek: a=3 i=3 e=4 y=2 o=2 
+94 Tuz stalo wody pelne naczynie blaszane,   Liczba samoglosek: u=1 a=4 o=2 y=2 e=4 i=1 
+95 Ale nigdzie nie widac bylo ogrodniczki;   Liczba samoglosek: a=2 e=3 i=6 y=1 o=3 
+96 Tylko co wyszla; jeszcze kolysza sie drzwiczki   Liczba samoglosek: y=3 o=3 a=2 e=3 i=3 
+97 swiezo tracone; blisko drzwi slad widac nozki   Liczba samoglosek: i=5 e=2 o=4 a=3 
+98 Na piasku, bez trzewika byla i ponczoszki;   Liczba samoglosek: a=4 i=4 u=1 e=2 y=1 o=2 
+99 Na piasku drobnym, suchym, bialym na ksztalt sniegu,   Liczba samoglosek: a=5 i=3 u=3 o=1 y=3 e=1 
+100 slad wyrazny, lecz lekki; odgadniesz, ze w biegu   Liczba samoglosek: a=3 y=2 e=5 i=3 o=1 u=1 
+101 Chybkim byl zostawiony nozkami drobnemi   Liczba samoglosek: y=3 i=4 o=4 a=2 e=1 
+102 Od kogos, co zaledwie dotykal sie ziemi.   Liczba samoglosek: o=5 a=2 e=4 i=4 y=1 
+103 Podrozny dlugo w oknie stal patrzac, dumajac,   Liczba samoglosek: o=4 y=1 u=2 i=1 e=1 a=5 
+104 Wonnymi powiewami kwiatow oddychajac,   Liczba samoglosek: o=4 y=2 i=4 e=1 a=4 
+105 Oblicze az na krzaki fijolkowe sklonil,   Liczba samoglosek: o=4 i=4 e=2 a=3 
+106 Oczyma ciekawymi po drozynach gonil   Liczba samoglosek: o=4 y=3 a=3 i=3 e=1 
+107 I znowu je na drobnych sladach zatrzymywal,   Liczba samoglosek: i=1 o=2 u=1 e=1 a=5 y=3 
+108 Myslal o nich i, czyje byly, odgadywal.   Liczba samoglosek: y=5 a=3 o=2 i=2 e=1 
+109 Przypadkiem oczy podniosl, i tuz na parkanie   Liczba samoglosek: y=2 a=4 i=4 e=2 o=3 u=1 
+110 Stala mloda dziewczyna. - Biale jej ubranie   Liczba samoglosek: a=6 o=1 i=3 e=4 y=1 u=1 
+111 Wysmukla postac tylko az do piersi kryje,   Liczba samoglosek: y=3 u=1 a=3 o=3 i=2 e=2 
+112 Odslaniajac ramiona i labedzia szyje.   Liczba samoglosek: o=2 a=7 i=4 e=2 y=1 
+113 W takim Litwinka tylko chodzic zwykla z rana,   Liczba samoglosek: a=5 i=4 y=2 o=2 
+114 W takim nigdy nie bywa od mezczyzn widziana:   Liczba samoglosek: a=4 i=5 y=3 e=2 o=1 
+115 Wiec choc swiadka nie miala, zalozyla rece   Liczba samoglosek: i=4 e=4 o=2 a=6 y=1 
+116 Na piersiach, przydawajac zaslony sukience.   Liczba samoglosek: a=6 i=3 e=3 y=2 o=1 u=1 
+117 Wlos w pukle nie rozwity, lecz w wezelki male   Liczba samoglosek: o=2 u=1 e=6 i=3 y=1 a=1 
+118 Pokrecony, schowany w drobne straczki biale,   Liczba samoglosek: o=4 e=3 y=2 a=3 i=2 
+119 Dziwnie ozdabial glowe, bo od slonca blasku   Liczba samoglosek: i=3 e=2 o=5 a=4 u=1 
+120 swiecil sie, jak korona na swietych obrazku.   Liczba samoglosek: i=4 e=3 a=4 o=3 y=1 u=1 
+121 Twarzy nie bylo widac. Zwrocona na pole   Liczba samoglosek: a=4 y=2 i=2 e=2 o=4 
+122 Szukala kogos okiem, daleko, na dole;   Liczba samoglosek: u=1 a=4 o=5 i=1 e=3 
+123 Ujrzala, zasmiala sie i klasnela w dlonie,   Liczba samoglosek: u=1 a=7 i=4 e=3 o=1 
+124 Jak bialy ptak zleciala z parkanu na blonie   Liczba samoglosek: a=8 i=3 y=1 e=2 u=1 o=1 
+125 I wionela ogrodem przez plotki, przez kwiaty,   Liczba samoglosek: i=4 o=4 e=4 a=2 y=1 
+126 I po desce opartej o sciane komnaty,   Liczba samoglosek: i=2 o=4 e=4 a=3 y=1 
+127 Nim spostrzegl sie, wleciala przez okno, swiecaca,   Liczba samoglosek: i=4 o=3 e=5 a=4 
+128 Nagla, cicha i lekka jak swiatlosc miesiaca.   Liczba samoglosek: a=8 i=5 e=2 o=1 
+129 Nocac chwycila suknie, biegla do zwierciadla;   Liczba samoglosek: o=2 a=5 y=1 i=5 u=1 e=3 
+130 Wtem ujrzala mlodzienca i z rak jej wypadla   Liczba samoglosek: e=3 u=1 a=6 o=1 i=2 y=1 
+131 Suknia, a twarz od strachu i dziwu pobladla.   Liczba samoglosek: u=3 i=3 a=6 o=2 
+132 Twarz podroznego barwa splonela rumiana   Liczba samoglosek: a=6 o=4 e=2 u=1 i=1 
+133 Jak oblok, gdy z jutrzenka napotka sie ranna;   Liczba samoglosek: a=6 o=3 y=1 u=1 e=2 i=1 
+134 Skromny mlodzieniec oczy zmruzyl i przyslonil,   Liczba samoglosek: o=4 y=4 i=4 e=2 u=1 
+135 Chcial cos mowic, przepraszac, tylko sie uklonil   Liczba samoglosek: i=4 a=3 o=4 e=2 y=1 u=1 
+136 I cofnal sie; dziewica krzyknela bolesnie,   Liczba samoglosek: i=5 o=2 a=3 e=5 y=1 
+137 Niewyraznie, jak dziecko przestraszone we snie;   Liczba samoglosek: i=4 e=7 y=1 a=3 o=2 
+138 Podrozny zlakl sie, spojrzal, lecz juz jej nie bylo.   Liczba samoglosek: o=4 y=2 a=2 i=2 e=4 u=1 
+139 Wyszedl zmieszany i czul, ze serce mu bilo   Liczba samoglosek: y=2 e=5 i=3 a=1 u=2 o=1 
+140 Glosno, i sam nie wiedzial, czy go mialo smieszyc   Liczba samoglosek: o=4 i=6 a=3 e=3 y=2 
+141 To dziwaczne spotkanie, czy wstydzic, czy cieszyc.   Liczba samoglosek: o=2 i=4 a=2 e=3 y=4 
+142 Tymczasem na folwarku nie uszlo bacznosci,   Liczba samoglosek: y=1 a=4 e=2 o=3 u=2 i=2 
+143 ze przed ganek zajechal ktorys z nowych gosci.   Liczba samoglosek: e=4 a=3 o=3 y=2 i=1 
+144 Juz konie w stajnie wzieto, juz im hojnie dano,   Liczba samoglosek: u=2 o=4 i=5 e=4 a=2 
+145 Jako w porzadnym domu, i obrok, i siano;   Liczba samoglosek: a=3 o=6 y=1 u=1 i=3 
+146 Bo Sedzia nigdy nie chcial, wedlug nowej mody,   Liczba samoglosek: o=3 e=4 i=4 a=2 y=2 u=1 
+147 Odsylac konie gosci zydom do gospody.   Liczba samoglosek: o=7 y=3 a=1 i=2 e=1 
+148 Sludzy nie wyszli witac, ale nie mysl wcale,   Liczba samoglosek: u=1 y=3 i=4 e=4 a=3 
+149 Aby w domu Sedziego sluzono niedbale;   Liczba samoglosek: a=2 y=1 o=4 u=2 e=4 i=2 
+150 Sludzy czekaja, nim sie pan Wojski ubierze,   Liczba samoglosek: u=2 y=1 e=4 a=3 i=4 o=1 
+151 Ktory teraz za domem urzadzal wieczerze.   Liczba samoglosek: o=2 y=1 e=5 a=4 u=1 i=1 
+152 On Pana zastepuje i on w niebytnosci   Liczba samoglosek: o=3 a=3 e=3 u=1 i=3 y=1 
+153 Pana zwykl sam przyjmowac i zabawiac gosci   Liczba samoglosek: a=7 y=2 o=2 i=3 
+154 (Daleki krewny panski i przyjaciel domu).   Liczba samoglosek: a=3 e=3 i=4 y=2 o=1 u=1 
+155 Widzac goscia, na folwark dazyl po kryjomu   Liczba samoglosek: i=2 a=5 o=4 y=2 u=1 
+156 (Bo nie mogl wyjsc spotykac w tkackim pudermanie);   Liczba samoglosek: o=3 i=3 e=3 y=2 a=3 u=1 
+157 Wdzial wiec, jak mogl najpredzej, niedzielne ubranie   Liczba samoglosek: i=5 a=4 e=7 o=1 u=1 
+158 Nagotowane z rana, bo od rana wiedzial,   Liczba samoglosek: a=7 o=4 e=2 i=2 
+159 ze u wieczerzy bedzie z mnostwem gosci siedzial.   Liczba samoglosek: e=7 u=1 i=5 y=1 o=2 a=1 
+160 Pan Wojski poznal z dala, rece rozkrzyzowal   Liczba samoglosek: a=5 o=4 i=1 e=2 y=1 
+161 I z krzykiem podroznego sciskal i calowal;   Liczba samoglosek: i=4 y=1 e=2 o=4 a=3 
+162 Zaczela sie ta predka, zmieszana rozmowa,   Liczba samoglosek: a=7 e=4 i=2 o=2 
+163 W ktorej lat kilku dzieje chciano zamknac w slowa   Liczba samoglosek: o=3 e=3 a=5 i=3 u=1 
+164 Krotkie i poplatane, w ciag powiesci, pytan,   Liczba samoglosek: o=3 i=5 e=3 a=4 y=1 
+165 Wykrzyknikow i westchnien, i nowych powitan.   Liczba samoglosek: y=3 i=5 o=3 e=2 a=1 
+166 Gdy sie pan Wojski dosyc napytal, nabadal,   Liczba samoglosek: y=3 i=2 e=1 a=6 o=2 
+167 Na samym koncu dzieje tego dnia powiadal.   Liczba samoglosek: a=5 y=1 o=3 u=1 i=3 e=3 
+168 "Dobrze, moj Tadeuszu (bo tak nazywano   Liczba samoglosek: o=4 e=2 a=4 u=2 y=1 
+169 Mlodzienca, ktory nosil Kosciuszkowskie miano   Liczba samoglosek: o=6 i=5 e=2 a=2 y=1 u=1 
+170 Na pamiatke, ze w czasie wojny sie urodzil),   Liczba samoglosek: a=4 i=4 e=4 o=2 y=1 u=1 
+171 Dobrze, moj Tadeuszu, zes sie dzis nagodzil   Liczba samoglosek: o=3 e=4 a=2 u=2 i=3 
+172 Do domu, wlasnie kiedy mamy panien wiele.   Liczba samoglosek: o=2 u=1 a=3 i=4 e=5 y=2 
+173 Stryjaszek mysli wkrotce sprawic ci wesele;   Liczba samoglosek: y=2 a=2 e=5 i=3 o=1 
+174 Jest z czego wybrac; u nas towarzystwo liczne   Liczba samoglosek: e=3 o=3 y=2 a=3 u=1 i=1 
+175 Od kilku dni zbiera sie na sady graniczne   Liczba samoglosek: o=1 i=5 u=1 e=3 a=4 y=1 
+176 Dla skonczenia dawnego z panem Hrabia sporu;   Liczba samoglosek: a=6 o=3 e=3 i=2 u=1 
+177 I pan Hrabia ma jutro sam zjechac do dworu;   Liczba samoglosek: i=2 a=6 u=2 o=3 e=1 
+178 Podkomorzy juz zjechal z zona i z corkami.   Liczba samoglosek: o=5 y=1 u=1 e=1 a=3 i=2 
+179 Mlodziez poszla do lasu bawic sie strzelbami,   Liczba samoglosek: o=3 i=4 e=3 a=4 u=1 
+180 A starzy i kobiety zniwo ogladaja   Liczba samoglosek: a=5 y=2 i=3 o=3 e=1 
+181 Pod lasem, i tam pewnie na mlodziez czekaja.   Liczba samoglosek: o=2 a=5 e=5 i=3 
+182 Pojdziemy, jesli zechcesz, i wkrotce spotkamy   Liczba samoglosek: o=3 i=3 e=5 y=2 a=1 
+183 Stryjaszka, Podkomorstwo i szanowne damy".   Liczba samoglosek: y=2 a=4 o=5 i=1 e=1 
+184 Pan Wojski z Tadeuszem ida pod las droga   Liczba samoglosek: a=5 o=3 i=2 e=2 u=1 
+185 I jeszcze sie do woli nagadac nie moga.   Liczba samoglosek: i=4 e=4 o=3 a=4 
+186 Slonce ostatnich kresow nieba dochodzilo,   Liczba samoglosek: o=6 e=3 a=2 i=3 
+187 Mniej silnie, ale szerzej niz we dnie swiecilo,   Liczba samoglosek: i=7 e=8 a=1 o=1 
+188 Cale zaczerwienione, jak zdrowe oblicze   Liczba samoglosek: a=3 e=6 i=3 o=3 
+189 Gospodarza, gdy prace skonczywszy rolnicze,   Liczba samoglosek: o=4 a=3 y=3 e=2 i=1 
+190 Na spoczynek powraca. Juz krag promienisty   Liczba samoglosek: a=4 o=3 y=2 e=2 u=1 i=2 
+191 Spuszcza sie na wierzch boru i juz pomrok mglisty,   Liczba samoglosek: u=3 a=2 i=4 e=2 o=3 y=1 
+192 Napelniajac wierzcholki i galezie drzewa,   Liczba samoglosek: a=5 e=5 i=5 o=1 
+193 Caly las wiaze w jedno i jakoby zlewa;   Liczba samoglosek: a=5 y=2 i=2 e=3 o=2 
+194 I bor czernil sie na ksztalt ogromnego gmachu,   Liczba samoglosek: i=3 o=4 e=3 a=3 u=1 
+195 Slonce nad nim czerwone jak pozar na dachu;   Liczba samoglosek: o=3 e=3 a=5 i=1 u=1 
+196 Wtem zapadlo do glebi; jeszcze przez konary   Liczba samoglosek: e=5 a=3 o=3 i=1 y=1 
+197 Blysnelo jako swieca przez okienic szpary   Liczba samoglosek: y=2 e=4 o=3 a=3 i=3 
+198 I zgaslo. I wnet sierpy gromadnie dzwoniace   Liczba samoglosek: i=5 a=3 o=3 e=4 y=1 
+199 We zbozach i grabliska suwane po lace   Liczba samoglosek: e=3 o=2 a=5 i=2 u=1 
+200 Ucichly i stanely: tak pan Sedzia kaze,   Liczba samoglosek: u=1 i=3 y=2 a=5 e=3 
+201 U niego ze dniem koncza prace gospodarze.   Liczba samoglosek: u=1 i=2 e=5 o=4 a=3 
+202 "Pan swiata wie, jak dlugo pracowac potrzeba;   Liczba samoglosek: a=7 i=2 e=2 u=1 o=3 
+203 Slonce, Jego robotnik, kiedy znidzie z nieba,   Liczba samoglosek: o=4 e=5 i=5 y=1 a=1 
+204 Czas i ziemianinowi ustepowac z pola".   Liczba samoglosek: a=4 i=5 e=2 o=3 u=1 
+205 Tak zwykl mawiac pan Sedzia, a Sedziego wola   Liczba samoglosek: a=7 y=1 i=3 e=3 o=2 
+206 Byla ekonomowi poczciwemu swieta;   Liczba samoglosek: y=1 a=2 e=3 o=4 i=3 u=1 
+207 Bo nawet wozy, w ktore juz skladac zaczeto   Liczba samoglosek: o=4 a=4 e=3 y=1 u=1 
+208 Kope zyta, niepelne jada do stodoly;   Liczba samoglosek: o=4 e=4 y=2 a=3 i=1 
+209 Ciesza sie z nadzwyczajnej ich lekkosci woly.   Liczba samoglosek: i=4 e=4 a=3 y=2 o=2 
+210 Wlasnie z lasu wracalo towarzystwo cale,   Liczba samoglosek: a=6 i=1 e=2 u=1 o=3 y=1 
+211 Wesolo, lecz w porzadku; naprzod dzieci male   Liczba samoglosek: e=4 o=4 a=3 u=1 i=2 
+212 Z dozorca, potem Sedzia szedl z Podkomorzyna,   Liczba samoglosek: o=6 a=3 e=3 i=1 y=1 
+213 Obok pan Podkomorzy otoczon rodzina;   Liczba samoglosek: o=9 a=2 y=1 i=1 
+214 Panny tuz za starszemi, a mlodziez na boku;   Liczba samoglosek: a=5 y=1 u=2 e=2 i=2 o=2 
+215 Panny szly przed mlodzieza o jakie pol kroku   Liczba samoglosek: a=3 y=2 e=3 o=4 i=2 u=1 
+216 (Tak kaze przyzwoitosc); nikt tam nie rozprawial   Liczba samoglosek: a=5 e=2 y=1 o=3 i=4 
+217 O porzadku, nikt mezczyzn i dam nie ustawial,   Liczba samoglosek: o=2 a=4 u=2 i=4 e=2 y=1 
+218 A kazdy mimowolnie porzadku pilnowal.   Liczba samoglosek: a=4 y=1 i=3 o=4 e=1 u=1 
+219 Bo Sedzia w domu dawne obyczaje chowal   Liczba samoglosek: o=4 e=3 i=1 a=4 u=1 y=1 
+220 I nigdy nie dozwalal, by chybiano wzgledu   Liczba samoglosek: i=4 y=3 e=2 o=2 a=3 u=1 
+221 Dla wieku, urodzenia, rozumu, urzedu.   Liczba samoglosek: a=2 i=2 e=3 u=6 o=2 
+222 "Tym ladem - mawial - domy i narody slyna,   Liczba samoglosek: y=4 a=5 e=1 i=2 o=2 
+223 Z jego upadkiem domy i narody gina".   Liczba samoglosek: e=2 o=3 u=1 a=3 i=3 y=2 
+224 Wiec do porzadku wykli domowi i sludzy;   Liczba samoglosek: i=4 e=1 o=4 a=1 u=2 y=2 
+225 I przyjezdny gosc, krewny albo czlowiek cudzy,   Liczba samoglosek: i=2 y=4 e=3 o=3 a=1 u=1 
+226 Gdy Sedziego nawiedzil, skoro pobyl malo,   Liczba samoglosek: y=2 e=3 i=3 o=5 a=2 
+227 Przejmowal zwyczaj, ktorym wszystko oddychalo.   Liczba samoglosek: e=1 o=5 a=3 y=4 
+228 Krotkie byly Sedziego z synowcem witania:   Liczba samoglosek: o=3 i=4 e=4 y=3 a=2 
+229 Dal mu powaznie reke do pocalowania   Liczba samoglosek: a=5 u=1 o=4 i=2 e=3 
+230 I w skron ucalowawszy, uprzejmie pozdrowil;   Liczba samoglosek: i=3 o=4 u=2 a=2 y=1 e=2 
+231 A choc przez wzglad na gosci niewiele z nim mowil,   Liczba samoglosek: a=3 o=3 e=4 i=5 
+232 Widac bylo z lez, ktore wylotem kontusza   Liczba samoglosek: i=1 a=2 y=2 o=4 e=3 u=1 
+233 Otarl predko, jak kochal pana Tadeusza.   Liczba samoglosek: o=3 a=7 e=2 u=1 
+234 W slad gospodarza wszystko ze zniwa i z boru,   Liczba samoglosek: a=4 o=4 y=1 e=1 i=2 u=1 
+235 I z lak, i z pastwisk razem wracalo do dworu.   Liczba samoglosek: i=3 a=5 e=1 o=3 u=1 
+236 Tu owiec trzoda beczac w ulice sie tloczy   Liczba samoglosek: u=2 o=3 i=3 e=4 a=2 y=1 
+237 I wznosi chmure pylu; dalej z wolna kroczy   Liczba samoglosek: i=2 o=3 u=2 e=2 y=2 a=2 
+238 Stado cielic tyrolskich z mosieznymi dzwonki;   Liczba samoglosek: a=1 o=4 i=6 e=2 y=2 
+239 Tam konie rzace leca ze skoszonej laki;   Liczba samoglosek: a=4 o=3 i=2 e=5 
+240 Wszystko biezy ku studni, ktorej ramie z drzewa   Liczba samoglosek: y=2 o=2 i=3 e=4 u=2 a=2 
+241 Raz wraz skrzypi i napoj w koryta rozlewa.   Liczba samoglosek: a=5 y=2 i=2 o=3 e=1 
+242 Sedzia, choc utrudzony, chociaz w gronie gosci,   Liczba samoglosek: e=2 i=4 a=2 o=5 u=2 y=1 
+243 Nie uchybil gospodarskiej, waznej powinnosci:   Liczba samoglosek: i=5 e=3 u=1 y=1 o=4 a=2 
+244 Udal sie sam ku studni; najlepiej z wieczora   Liczba samoglosek: u=3 a=4 i=4 e=4 o=1 
+245 Gospodarz widzi, w jakim stanie jest obora;   Liczba samoglosek: o=4 a=4 i=4 e=2 
+246 Dozoru tego nigdy slugom nie poruczy,   Liczba samoglosek: o=5 u=3 e=2 i=2 y=2 
+247 Bo Sedzia wie, ze oko panskie konia tuczy.   Liczba samoglosek: o=4 e=4 i=4 a=3 u=1 y=1 
+248 Wojski z woznym Protazym ze swiecami w sieni   Liczba samoglosek: o=3 i=5 y=2 a=2 e=3 
+249 Stali i rozprawiali, nieco poroznieni,   Liczba samoglosek: a=3 i=7 o=4 e=2 
+250 Bo w niebytnosc Wojskiego Wozny po kryjomu   Liczba samoglosek: o=7 i=2 e=2 y=3 u=1 
+251 Kazal stoly z wieczerza powynosic z domu   Liczba samoglosek: a=3 o=4 y=2 i=2 e=2 u=1 
+252 I ustawic co predzej w posrodku zamczyska,   Liczba samoglosek: i=2 u=2 a=3 o=3 e=2 y=1 
+253 Ktorego widne byly pod lasem zwaliska.   Liczba samoglosek: o=3 e=3 i=2 y=2 a=3 
+254 Po coz te przenosiny? Pan Wojski sie krzywil   Liczba samoglosek: o=4 e=3 i=4 y=2 a=1 
+255 I przepraszal Sedziego; Sedzia sie zadziwil,   Liczba samoglosek: i=6 e=5 a=4 o=1 
+256 Lecz stalo sie; juz pozno i trudno zaradzic,   Liczba samoglosek: e=2 a=3 o=4 i=3 u=2 
+257 Wolal gosci przeprosic i w pustki prowadzic.   Liczba samoglosek: o=4 a=2 i=5 e=1 u=1 
+258 Po drodze Wozny ciagle Sedziemu tlumaczyl,   Liczba samoglosek: o=3 e=4 y=2 i=2 a=2 u=2 
+259 Dlaczego urzadzenie panskie przeinaczyl:   Liczba samoglosek: a=4 e=5 o=1 u=1 i=3 y=1 
+260 We dworze zadna izba nie ma obszernosci   Liczba samoglosek: e=4 o=3 a=4 i=3 
+261 Dostatecznej dla tylu, tak szanownych gosci;   Liczba samoglosek: o=3 a=4 e=2 y=2 u=1 i=1 
+262 W zamku sien wielka, jeszcze dobrze zachowana,   Liczba samoglosek: a=5 u=1 i=2 e=5 o=2 
+263 Sklepienie cale - wprawdzie pekla jedna sciana,   Liczba samoglosek: e=7 i=4 a=6 
+264 Okna bez szyb, lecz latem nic to nie zawadzi;   Liczba samoglosek: o=2 a=4 e=4 y=1 i=3 
+265 Bliskosc piwnic wygodna sluzacej czeladzi.   Liczba samoglosek: i=4 o=2 y=1 a=3 u=1 e=2 
+266 Tak mowiac, na Sedziego mrugal; widac z miny,   Liczba samoglosek: a=5 o=2 i=4 e=2 u=1 y=1 
+267 ze mial i tail inne, wazniejsze przyczyny.   Liczba samoglosek: e=4 i=5 a=3 y=3 
+268 O dwa tysiace krokow zamek stal za domem,   Liczba samoglosek: o=4 a=5 y=1 i=1 e=3 
+269 Okazaly budowa, powazny ogromem,   Liczba samoglosek: o=5 a=4 y=2 u=1 e=1 
+270 Dziedzictwo starozytnej rodziny Horeszkow;   Liczba samoglosek: i=3 e=3 o=5 a=1 y=2 
+271 Dziedzic zginal byl w czasie krajowych zamieszkow.   Liczba samoglosek: i=5 e=3 a=4 y=2 o=2 
+272 Dobra, cale zniszczone sekwestrami rzadu,   Liczba samoglosek: o=2 a=4 e=4 i=2 u=1 
+273 Bezladnoscia opieki, wyrokami sadu,   Liczba samoglosek: e=2 a=4 o=3 i=4 y=1 u=1 
+274 W czastce spadly dalekim krewnym po kadzieli,   Liczba samoglosek: a=4 e=4 y=2 i=3 o=1 
+275 A reszte rozdzielono miedzy wierzycieli.   Liczba samoglosek: a=1 e=6 o=3 i=5 y=2 
+276 Zamku zaden wziasc nie chcial, bo w szlacheckim stanie   Liczba samoglosek: a=6 u=1 e=4 i=5 o=1 
+277 Trudno bylo wylozyc koszt na utrzymanie;   Liczba samoglosek: u=2 o=4 y=4 a=2 i=1 e=1 
+278 Lecz Hrabia, sasiad bliski, gdy wyszedl z opieki,   Liczba samoglosek: e=3 a=4 i=6 y=2 o=1 
+279 Panicz bogaty, krewny Horeszkow daleki,   Liczba samoglosek: a=3 i=2 o=3 y=2 e=3 
+280 Przyjechawszy z wojazu upodobal mury,   Liczba samoglosek: y=3 e=1 a=3 o=3 u=3 
+281 Tlumaczac, ze gotyckiej sa architektury;   Liczba samoglosek: u=2 a=4 e=3 o=1 y=2 i=2 
+282 Choc Sedzia z dokumentow przekonywal o tem,   Liczba samoglosek: o=5 e=4 i=1 a=2 u=1 y=1 
+283 ze architekt byl majstrem z Wilna, nie zas Gotem.   Liczba samoglosek: e=5 a=4 i=3 y=1 o=1 
+284 Dosc, ze Hrabia chcial zamku, wlasnie i Sedziemu   Liczba samoglosek: o=1 e=4 a=5 i=5 u=2 
+285 Przyszla nagle taz chetka, nie wiadomo czemu.   Liczba samoglosek: y=1 a=5 e=4 i=2 o=2 u=1 
+286 Zaczeli proces w ziemstwie, potem w glownym sadzie,   Liczba samoglosek: a=2 e=6 i=4 o=3 y=1 
+287 W senacie, znowu w ziemstwie i w guberskim rzadzie;   Liczba samoglosek: e=6 a=2 i=6 o=1 u=2 
+288 Wreszcie po wielu kosztach i ukazach licznych   Liczba samoglosek: e=3 i=4 o=2 u=2 a=3 y=1 
+289 Sprawa wrocila znowu do sadow granicznych.   Liczba samoglosek: a=5 o=4 i=2 u=1 y=1 
+290 Slusznie Wozny powiadal, ze w zamkowej sieni   Liczba samoglosek: u=1 i=4 e=4 o=3 y=1 a=3 
+291 Zmiesci sie i palestra, i goscie proszeni.   Liczba samoglosek: i=7 e=5 a=2 o=2 
+292 Sien wielka jak refektarz, z wypuklym sklepieniem   Liczba samoglosek: i=4 e=7 a=3 y=2 u=1 
+293 Na filarach, podloga wyslana kamieniem,   Liczba samoglosek: a=7 i=3 o=2 y=1 e=2 
+294 sciany bez zadnych ozdob, ale mur chedogi;   Liczba samoglosek: i=2 a=3 y=2 e=3 o=3 u=1 
+295 Sterczaly wkolo sarnie i jelenie rogi   Liczba samoglosek: e=5 a=2 y=1 o=3 i=4 
+296 Z napisami: gdzie, kiedy te lupy zdobyte;   Liczba samoglosek: a=2 i=4 e=4 y=3 u=1 o=1 
+297 Tuz mysliwcow herbowne klejnoty wyryte   Liczba samoglosek: u=1 y=4 i=1 o=3 e=4 
+298 I stoi wypisany kazdy po imieniu;   Liczba samoglosek: i=6 o=2 y=3 a=2 e=1 u=1 
+299 Herb Horeszkow, Polkozic, jasnial na sklepieniu.   Liczba samoglosek: e=4 o=4 i=4 a=3 u=1 
+300 Goscie weszli w porzadku i staneli kolem;   Liczba samoglosek: o=3 i=4 e=4 a=2 u=1 
+301 Podkomorzy najwyzsze bral miejsce za stolem;   Liczba samoglosek: o=4 y=2 a=3 e=4 i=1 
+302 Z wieku mu i z urzedu ten zaszczyt nalezy.   Liczba samoglosek: i=2 e=4 u=4 a=2 y=2 
+303 Idac klanial sie damom, starcom i mlodziezy.   Liczba samoglosek: i=5 a=5 e=2 o=3 y=1 
+304 Przy nim stal kwestarz, Sedzia tuz przy Bernardynie,   Liczba samoglosek: y=3 i=3 a=4 e=4 u=1 
+305 Bernardyn zmowil krotki pacierz po lacinie.   Liczba samoglosek: e=3 a=3 y=1 o=3 i=5 
+306 Mezczyznom dano wodke; wtenczas wszyscy siedli   Liczba samoglosek: e=4 y=3 o=3 a=2 i=2 
+307 I cholodziec litewski milczac zwawo jedli.   Liczba samoglosek: i=6 o=3 e=3 a=2 
+308 Pan Tadeusz, choc mlodzik, ale prawem goscia   Liczba samoglosek: a=5 e=3 u=1 o=3 i=2 
+309 Wysoko siadl przy damach obok Jegomoscia;   Liczba samoglosek: y=2 o=6 i=2 a=4 e=1 
+310 Miedzy nim i stryjaszkiem jedno pozostalo   Liczba samoglosek: i=4 e=3 y=2 a=2 o=4 
+311 Puste miejsce, jak gdyby na kogos czekalo.   Liczba samoglosek: u=1 e=4 i=1 a=3 y=2 o=3 
+312 Stryj nieraz na to miejsce i na drzwi pogladal,   Liczba samoglosek: y=1 i=4 e=3 a=5 o=2 
+313 Jakby czyjegos przyjscia byl pewny i zadal.   Liczba samoglosek: a=4 y=5 e=2 o=1 i=2 
+314 I Tadeusz wzrok stryja ku drzwiom odprowadzal,   Liczba samoglosek: i=2 a=4 e=1 u=2 o=4 y=1 
+315 I z nim na miejscu pustym oczy swe osadzal.   Liczba samoglosek: i=3 a=3 e=2 u=2 y=2 o=2 
+316 Dziwna rzecz! Miejsca wkolo sa siedzeniem dziewic,   Liczba samoglosek: i=6 a=3 e=6 o=2 
+317 Na ktore moglby spojrzec bez wstydu krolewic,   Liczba samoglosek: a=1 o=4 e=4 y=2 u=1 i=1 
+318 Wszystkie zacnie zrodzone, kazda mloda, ladna;   Liczba samoglosek: y=1 i=2 e=3 a=6 o=3 
+319 Tadeusz tam poglada, gdzie nie siedzi zadna.   Liczba samoglosek: a=6 e=4 u=1 o=1 i=4 
+320 To miejsce jest zagadka, mlodz lubi zagadki;   Liczba samoglosek: o=2 i=3 e=3 a=5 u=1 
+321 Roztargniony, do swojej nadobnej sasiadki   Liczba samoglosek: o=5 a=4 i=3 y=1 e=2 
+322 Ledwie slow kilka wyrzekl, do Podkomorzanki;   Liczba samoglosek: e=3 i=3 o=5 a=2 y=1 
+323 Nie zmienia jej talerzow, nie nalewa szklanki,   Liczba samoglosek: i=5 e=6 a=5 o=1 
+324 I panien nie zabawia przez rozmowy grzeczne,   Liczba samoglosek: i=4 a=4 e=5 o=2 y=1 
+325 Z ktorych by wychowanie poznano stoleczne;   Liczba samoglosek: o=5 y=3 a=2 i=1 e=3 
+326 To jedno puste miejsce neci go i mami...   Liczba samoglosek: o=3 e=5 u=1 i=4 a=1 
+327 Juz nie puste, bo on je napelnil myslami.   Liczba samoglosek: u=2 i=3 e=4 o=2 a=2 y=1 
+328 Po tem miejscu biegalo domyslow tysiace,   Liczba samoglosek: o=4 e=4 i=3 u=1 a=2 y=2 
+329 Jako po deszczu zabki po samotnej lace;   Liczba samoglosek: a=4 o=4 e=3 u=1 i=1 
+330 srod nich jedna kroluje postac, jak w pogode   Liczba samoglosek: o=5 i=1 e=3 a=3 u=1 
+331 Lilia jezior skron biala wznoszaca nad wode.   Liczba samoglosek: i=4 a=6 e=2 o=4 
+332 Dano trzecia potrawe. Wtem pan Podkomorzy,   Liczba samoglosek: a=4 o=5 e=3 i=1 y=1 
+333 Wlawszy kropelke wina w szklanke panny Rozy,   Liczba samoglosek: a=4 y=3 o=2 e=3 i=1 
+334 A mlodszej przysunawszy z talerzem ogorki,   Liczba samoglosek: a=3 o=3 e=3 y=2 u=1 i=1 
+335 Rzekl: "Musze ja wam sluzyc, moje panny corki,   Liczba samoglosek: e=3 u=2 a=3 y=2 o=2 i=1 
+336 Choc stary i niezgrabny". Zatem sie rzucilo   Liczba samoglosek: o=2 a=3 y=2 i=4 e=3 u=1 
+337 Kilku mlodych od stolu i pannom sluzylo.   Liczba samoglosek: i=2 u=3 o=5 y=2 a=1 
+338 Sedzia, z boku rzuciwszy wzrok na Tadeusza   Liczba samoglosek: e=2 i=2 a=4 o=2 u=3 y=1 
+339 I poprawiwszy nieco wylotow kontusza,   Liczba samoglosek: i=3 o=5 a=2 y=2 e=1 u=1 
+340 Nalal wegrzyna i rzekl:   Liczba samoglosek: a=3 e=2 y=1 i=1 
+341 "Dzis, nowym zwyczajem,   Liczba samoglosek: i=1 o=1 y=2 a=1 e=1 
+342 My na nauke mlodziez do stolicy dajem   Liczba samoglosek: y=2 a=3 u=1 e=3 o=3 i=2 
+343 I nie przeczym, ze nasi synowie i wnuki   Liczba samoglosek: i=6 e=4 y=2 a=1 o=1 u=1 
+344 Maja od starych wiecej ksiazkowej nauki;   Liczba samoglosek: a=5 o=2 y=1 i=3 e=3 u=1 
+345 Ale co dzien postrzegam, jak mlodz cierpi na tem,   Liczba samoglosek: a=4 e=5 o=3 i=3 
+346 ze nie ma szkol uczacych zyc z ludzmi i swiatem.   Liczba samoglosek: e=3 i=4 a=3 o=1 u=2 y=2 
+347 Dawniej na dwory panskie jachal szlachcic mlody,   Liczba samoglosek: a=6 i=3 e=2 o=2 y=2 
+348 Ja sam lat dziesiec bylem dworskim Wojewody,   Liczba samoglosek: a=3 i=3 e=4 y=2 o=3 
+349 Ojca Podkomorzego, Mosciwego Pana   Liczba samoglosek: o=7 a=3 e=2 i=1 
+350 (Mowiac, Podkomorzemu scisnal za kolana);   Liczba samoglosek: o=5 i=2 a=5 e=1 u=1 
+351 On mnie rada do uslug publicznych sposobil,   Liczba samoglosek: o=4 i=3 e=1 a=2 u=3 y=1 
+352 Z opieki nie wypuscil, az czlowiekiem zrobil.   Liczba samoglosek: o=3 i=7 e=4 y=1 u=1 a=1 
+353 W mym domu wiecznie bedzie jego pamiec droga,   Liczba samoglosek: y=1 o=3 u=1 i=4 e=6 a=2 
+354 Co dzien za dusze jego prosze Pana Boga.   Liczba samoglosek: o=4 i=1 e=4 a=4 u=1 
+355 Jeslim tyle na jego nie korzystal dworze   Liczba samoglosek: e=5 i=2 y=2 a=2 o=3 
+356 Jak drudzy i wrociwszy w domu ziemie orze,   Liczba samoglosek: a=1 u=2 y=2 i=4 o=3 e=3 
+357 Gdy inni, wiecej godni Wojewody wzgledow,   Liczba samoglosek: y=2 i=4 e=4 o=4 
+358 Doszli potem najwyzszych krajowych urzedow,   Liczba samoglosek: o=4 i=1 e=2 a=2 y=3 u=1 
+359 Przynajmniej tom skorzystal, ze mi w moim domu   Liczba samoglosek: y=2 a=2 i=3 e=2 o=4 u=1 
+360 Nikt nigdy nie zarzuci, bym uchybil komu   Liczba samoglosek: i=5 y=3 e=1 a=1 u=3 o=1 
+361 W uczciwosci, w grzecznosci; a ja powiem smialo:   Liczba samoglosek: u=1 i=5 o=4 e=2 a=3 
+362 Grzecznosc nie jest nauka latwa ani mala.   Liczba samoglosek: e=3 o=1 i=2 a=7 u=1 
+363 Nielatwa, bo nie na tym konczy sie, jak noga   Liczba samoglosek: i=3 e=3 a=5 o=3 y=2 
+364 Zrecznie wierzgnac, z usmiechem witac lada kogo;   Liczba samoglosek: e=5 i=4 a=4 u=1 o=2 
+365 Bo taka grzecznosc modna zda mi sie kupiecka,   Liczba samoglosek: o=3 a=5 e=3 i=3 u=1 
+366 Ale nie staropolska, ani tez szlachecka.   Liczba samoglosek: a=6 e=4 i=2 o=2 
+367 Grzecznosc wszystkim nalezy, lecz kazdemu inna;   Liczba samoglosek: e=4 o=1 y=2 i=2 a=3 u=1 
+368 Bo nie jest bez grzecznosci i milosc dziecinna,   Liczba samoglosek: o=3 i=6 e=5 a=1 
+369 I wzglad meza dla zony przy ludziach, i pana   Liczba samoglosek: i=3 a=6 e=1 o=1 y=2 u=1 
+370 Dla slug swoich, a w kazdej jest pewna odmiana.   Liczba samoglosek: a=6 u=1 o=2 i=2 e=3 
+371 Trzeba sie dlugo uczyc, azeby nie zbladzic   Liczba samoglosek: e=4 a=3 i=3 u=2 o=1 y=2 
+372 I kazdemu powinna uczciwosc wyrzadzic.   Liczba samoglosek: i=4 a=3 e=1 u=2 o=2 y=1 
+373 I starzy sie uczyli; u panow rozmowa   Liczba samoglosek: i=3 a=3 y=2 e=1 u=2 o=3 
+374 Byla to historyja zyjaca krajowa,   Liczba samoglosek: y=3 a=6 o=3 i=1 
+375 A miedzy szlachta dzieje domowe powiatu:   Liczba samoglosek: a=4 i=3 e=4 y=1 o=3 u=1 
+376 Dawano przez to poznac szlachcicowi bratu,   Liczba samoglosek: a=5 o=4 e=1 i=2 u=1 
+377 ze wszyscy o nim wiedza, lekce go nie waza;   Liczba samoglosek: e=5 y=2 o=2 i=3 a=3 
+378 Wiec szlachcic obyczaje swe trzymal pod straza.   Liczba samoglosek: i=2 e=3 a=5 o=2 y=2 
+379 Dzis czlowieka nie pytaj: co zacz? kto go rodzi?   Liczba samoglosek: i=4 o=5 e=2 a=3 y=1 
+380 Z kim on zyl, co porabial? Kazdy, gdzie chce, wchodzi,   Liczba samoglosek: i=4 o=4 y=2 a=3 e=2 
+381 Byle nie szpieg rzadowy i byle nie w nedzy.   Liczba samoglosek: y=4 e=6 i=4 a=1 o=1 
+382 Jak ow Wespazyjanus nie wachal pieniedzy   Liczba samoglosek: a=5 o=1 e=4 y=2 u=1 i=3 
+383 I nie chcial wiedziec, skad sa, z jakich rak i krajow,   Liczba samoglosek: i=7 e=3 a=6 o=1 
+384 Tak nie chca znac czlowieka rodu, obyczajow!   Liczba samoglosek: a=5 i=2 e=2 o=4 u=1 y=1 
+385 Dosc, ze wazny i ze sie stempel na nim widzi,   Liczba samoglosek: o=1 e=5 a=2 y=1 i=5 
+386 Wiec szanuja przyjaciol jak pieniadze zydzi".   Liczba samoglosek: i=5 e=3 a=5 u=1 y=2 o=1 
+387 To mowiac Sedzia gosci obejrzal porzadkiem;   Liczba samoglosek: o=5 i=4 a=4 e=3 
+388 Bo choc zawsze i plynnie mowil, i z rozsadkiem,   Liczba samoglosek: o=4 a=2 e=3 i=5 y=1 
+389 Wiedzial, ze niecierpliwa mlodziez terazniejsza,   Liczba samoglosek: i=7 e=7 a=4 o=1 
+390 ze ja nudzi rzecz dluga, choc najwymowniejsza.   Liczba samoglosek: e=3 a=4 u=2 i=2 o=2 y=1 
+391 Ale wszyscy sluchali w milczeniu glebokiem;   Liczba samoglosek: a=2 e=4 y=2 u=2 i=4 o=1 
+392 Sedzia Podkomorzego zdal sie radzic okiem,   Liczba samoglosek: e=4 i=4 a=3 o=5 
+393 Podkomorzy pochwala rzeczy nie przerywal,   Liczba samoglosek: o=4 y=3 a=3 e=3 i=1 
+394 Ale czestym skinieniem glowy potakiwal.   Liczba samoglosek: a=3 e=4 y=2 i=4 o=2 
+395 Sedzia milczal, on jeszcze skinieniem przyzwalal;   Liczba samoglosek: e=5 i=5 a=4 o=1 y=1 
+396 Wiec Sedzia jego puchar i swoj kielich nalal   Liczba samoglosek: i=5 e=4 a=4 o=2 u=1 
+397 I dalej mowil:   Liczba samoglosek: i=2 a=1 e=1 o=1 
+398 "Grzecznosc nie jest rzecza mala:   Liczba samoglosek: e=4 o=1 i=1 a=3 
+399 Kiedy sie czlowiek uczy wazyc, jak przystalo,   Liczba samoglosek: i=3 e=3 y=4 o=2 u=1 a=3 
+400 Drugich wiek, urodzenie, cnoty, obyczaje,   Liczba samoglosek: u=2 i=3 e=4 o=3 y=2 a=1 
+401 Wtenczas i swoja waznosc zarazem poznaje;   Liczba samoglosek: e=3 a=6 i=1 o=3 
+402 Jak na szalach zebysmy nasz ciezar poznali,   Liczba samoglosek: a=7 e=2 y=2 i=2 o=1 
+403 Musim kogos posadzic na przeciwnej szali.   Liczba samoglosek: u=1 i=4 o=3 a=3 e=2 
+404 Zas godna jest Waszmosciow uwagi osobnej   Liczba samoglosek: a=4 o=5 e=2 i=2 u=1 
+405 Grzecznosc, ktora powinna mlodz dla plci nadobnej;   Liczba samoglosek: e=2 o=5 a=4 i=2 
+406 Zwlaszcza gdy zacnosc domu, fortuny szczodroty   Liczba samoglosek: a=3 y=3 o=5 u=2 
+407 Objasniaja wrodzone wdzieki i przymioty.   Liczba samoglosek: o=4 a=3 i=5 e=2 y=2 
+408 Stad droga do afektow i stad sie kojarzy   Liczba samoglosek: a=5 o=4 e=2 i=2 y=1 
+409 Wspanialy domow sojusz - tak myslili starzy.   Liczba samoglosek: a=4 i=3 y=3 o=3 u=1 
+410 A zatem..."   Liczba samoglosek: a=2 e=1 
+411 Tu pan Sedzia naglym zwrotem glowy   Liczba samoglosek: u=1 a=3 e=2 i=1 y=2 o=2 
+412 Skinal na Tadeusza, rzucil wzrok surowy,   Liczba samoglosek: i=2 a=4 e=1 u=3 o=2 y=1 
+413 Znac bylo, ze przychodzil juz do wnioskow mowy.   Liczba samoglosek: a=1 y=3 o=6 e=1 i=2 u=1 
+414 Wtem brzaknal w tabakierke zlota Podkomorzy   Liczba samoglosek: e=3 a=5 i=1 o=4 y=1 
+415 I rzekl:   Liczba samoglosek: i=1 e=1 
+416 "Moj Sedzio, dawniej bylo jeszcze gorzej!   Liczba samoglosek: o=4 e=5 i=2 a=1 y=1 
+417 Teraz nie wiem, czy moda i nas starych zmienia,   Liczba samoglosek: e=4 a=5 i=5 y=2 o=1 
+418 Czy mlodziez lepsza, ale widze mniej zgorszenia.   Liczba samoglosek: y=1 o=2 i=4 e=6 a=3 
+419 Ach, ja pamietam czasy, kiedy do Ojczyzny   Liczba samoglosek: a=5 i=2 e=2 y=4 o=2 
+420 Pierwszy raz zawitala moda francuszczyzny!   Liczba samoglosek: i=2 e=1 y=3 a=6 o=1 u=1 
+421 Gdy raptem paniczyki mlode z cudzych krajow   Liczba samoglosek: y=3 a=3 e=2 i=2 o=2 u=1 
+422 Wtargneli do nas horda gorsza od Nogajow!   Liczba samoglosek: a=5 e=1 i=1 o=6 
+423 Przesladujac w Ojczyznie Boga, przodkow wiare,   Liczba samoglosek: e=3 a=4 u=1 o=4 y=1 i=2 
+424 Prawa i obyczaje, nawet suknie stare.   Liczba samoglosek: a=5 i=2 o=1 y=1 e=4 u=1 
+425 zalosnie bylo widziec wyzolklych mlokosow,   Liczba samoglosek: a=1 o=6 i=3 e=2 y=3 
+426 Gadajacych przez nosy, a czesto bez nosow,   Liczba samoglosek: a=4 y=2 e=3 o=4 
+427 Opatrzonych w broszurki i w rozne gazety,   Liczba samoglosek: o=4 a=2 y=2 u=1 i=2 e=2 
+428 Gloszacych nowe wiary, prawa, toalety.   Liczba samoglosek: o=3 a=5 y=3 e=2 i=1 
+429 Miala nad umyslami wielka moc ta tluszcza;   Liczba samoglosek: i=3 a=7 u=2 y=1 e=1 o=1 
+430 Bo Pan Bog, kiedy kare na narod przepuszcza,   Liczba samoglosek: o=3 a=5 i=1 e=3 y=1 u=1 
+431 Odbiera naprzod rozum od obywateli.   Liczba samoglosek: o=5 i=2 e=2 a=3 u=1 y=1 
+432 I tak medrsi fircykom oprzec sie nie smieli;   Liczba samoglosek: i=7 a=1 e=5 y=1 o=2 
+433 I zlakl ich sie jak dzumy jakiej caly narod,   Liczba samoglosek: i=4 a=5 e=2 u=1 y=2 o=1 
+434 Bo juz sam wewnatrz siebie czul choroby zarod.   Liczba samoglosek: o=4 u=2 a=3 e=3 i=2 y=1 
+435 Krzyczano na modnisiow, a brano z nich wzory:   Liczba samoglosek: y=2 a=4 o=5 i=3 
+436 Zmieniano wiare, mowe, prawa i ubiory.   Liczba samoglosek: i=5 e=3 a=4 o=3 u=1 y=1 
+437 Byla to maszkarada, zapustna swawola,   Liczba samoglosek: y=1 a=9 o=2 u=1 
+438 Po ktorej mial przyjsc wkrotce wielki post - niewola!   Liczba samoglosek: o=5 e=4 i=4 a=2 y=1 
+439 "Pamietam, chociaz bylem wtenczas male dziecie,   Liczba samoglosek: a=5 i=4 e=6 o=1 y=1 
+440 Kiedy do ojca mego w oszmianskim powiecie   Liczba samoglosek: i=5 e=4 y=1 o=5 a=2 
+441 Przyjechal pan Podczaszyc na francuskim wozku,   Liczba samoglosek: y=2 e=1 a=5 o=2 u=2 i=1 
+442 Pierwszy czlowiek, co w Litwie chodzil po francusku.   Liczba samoglosek: i=5 e=3 y=1 o=4 a=1 u=2 
+443 Biegali wszyscy za nim jakby za rarogiem,   Liczba samoglosek: i=4 e=2 a=5 y=3 o=1 
+444 Zazdroszczono domowi, przed ktorego progiem   Liczba samoglosek: a=1 o=8 i=2 e=3 
+445 Stanela Podczaszyca dwokolna dryndulka,   Liczba samoglosek: a=6 e=1 o=3 y=2 u=1 
+446 Ktora sie po francusku zwala karyjulka.   Liczba samoglosek: o=2 a=6 i=1 e=1 u=3 y=1 
+447 Zamiast lokajow w kielni siedzialy dwa pieski,   Liczba samoglosek: a=5 i=7 o=2 e=3 y=1 
+448 A na kozlach niemczysko chude na ksztalt deski;   Liczba samoglosek: a=5 o=2 i=2 e=3 y=1 u=1 
+449 Nogi mial dlugie, cienkie, jak od chmielu tyki,   Liczba samoglosek: o=2 i=7 a=2 u=2 e=4 y=1 
+450 W ponczochach, ze srebrnymi klamrami trzewiki,   Liczba samoglosek: o=2 a=3 e=3 y=1 i=4 
+451 Peruka z harbajtelem zawiazanym w miechu.   Liczba samoglosek: e=4 u=2 a=6 i=2 y=1 
+452 Starzy na on ekwipaz parskali ze smiechu,   Liczba samoglosek: a=5 y=1 o=1 e=3 i=3 u=1 
+453 A chlopi zegnali sie, mowiac, ze po swiecie   Liczba samoglosek: a=3 o=3 i=6 e=5 
+454 Jezdzi wenecki diabel w niemieckiej karecie.   Liczba samoglosek: e=9 i=7 a=2 
+455 Sam Podczaszyc jaki byl, opisywac dlugo;   Liczba samoglosek: a=4 o=3 y=3 i=2 u=1 
+456 Dosyc, ze nam sie zdawal malpa lub papuga,   Liczba samoglosek: o=1 y=1 e=2 a=7 i=1 u=2 
+457 W wielkiej peruce, ktora do zlotego runa   Liczba samoglosek: i=2 e=5 u=2 o=4 a=2 
+458 On lubil porownywac, a my do koltuna.   Liczba samoglosek: o=5 u=2 i=1 y=2 a=3 
+459 Jesli kto i czul wtenczas, ze polskie ubranie   Liczba samoglosek: e=5 i=4 o=2 u=2 a=2 
+460 Piekniejsze jest niz obcej mody malpowanie,   Liczba samoglosek: i=4 e=6 o=3 y=1 a=2 
+461 Milczal; boby krzyczala mlodziez, ze przeszkadza   Liczba samoglosek: i=2 a=5 o=2 y=2 e=3 
+462 Kulturze, ze tamuje progresy, ze zdradza!   Liczba samoglosek: u=3 e=5 a=3 o=1 y=1 
+463 Taka byla przesadow owoczesnych wladza!   Liczba samoglosek: a=6 y=2 e=2 o=3 
+464 Podczaszyc zapowiedzial, ze nas reformowac,   Liczba samoglosek: o=4 a=5 y=1 i=2 e=3 
+465 Cywilizowac bedzie i konstytuowac;   Liczba samoglosek: y=2 i=4 o=3 a=2 e=2 u=1 
+466 Oglosil nam, ze jacys Francuzi wymowni   Liczba samoglosek: o=3 i=3 a=3 e=1 y=2 u=1 
+467 Zrobili wynalazek: iz ludzie sa rowni.   Liczba samoglosek: o=2 i=5 y=1 a=3 e=2 u=1 
+468 Choc o tem dawno w Panskim pisano zakonie   Liczba samoglosek: o=5 e=2 a=4 i=3 
+469 I kazdy ksiadz toz samo gada na ambonie.   Liczba samoglosek: i=3 a=7 y=1 o=3 e=1 
+470 Nauka dawna byla, szlo o jej pelnienie!   Liczba samoglosek: a=5 u=1 y=1 o=2 e=4 i=2 
+471 Lecz wtenczas panowalo takie oslepienie,   Liczba samoglosek: e=6 a=4 o=3 i=3 
+472 ze nie wierzono rzeczom najdawniejszym w swiecie,   Liczba samoglosek: e=7 i=5 o=3 a=2 y=1 
+473 Jesli ich nie czytano w francuskiej gazecie.   Liczba samoglosek: e=5 i=5 y=1 a=3 o=1 u=1 
+474 Podczaszyc, mimo rownosc, wzial tytul markiza;   Liczba samoglosek: o=4 a=4 y=2 i=3 u=1 
+475 Wiadomo, ze tytuly przychodza z Paryza,   Liczba samoglosek: i=1 a=4 o=3 e=1 y=4 u=1 
+476 A natenczas tam w modzie byl tytul markiza.   Liczba samoglosek: a=6 e=2 o=1 i=2 y=2 u=1 
+477 Jakoz, kiedy sie moda odmienila z laty,   Liczba samoglosek: a=4 o=3 i=4 e=3 y=2 
+478 Tenze sam markiz przybral tytul demokraty;   Liczba samoglosek: e=3 a=4 i=1 y=3 u=1 o=1 
+479 Wreszcie z odmienna moda, pod Napoleonem,   Liczba samoglosek: e=5 i=2 o=5 a=3 
+480 Demokrata przyjechal z Paryza baronem;   Liczba samoglosek: e=3 o=2 a=6 y=2 
+481 Gdyby zyl dluzej, moze nowa alternata   Liczba samoglosek: y=3 u=1 e=3 o=2 a=4 
+482 Z barona przechrzcilby sie kiedys demokrata.   Liczba samoglosek: a=4 o=2 e=4 i=3 y=2 
+483 Bo Paryz czesta mody odmiana sie chlubi,   Liczba samoglosek: o=3 a=4 y=2 e=2 i=3 u=1 
+484 A co Francuz wymysli, to Polak polubi.   Liczba samoglosek: a=3 o=4 u=2 y=2 i=2 
+485 "Chwala Bogu, ze teraz jesli nasza mlodziez   Liczba samoglosek: a=5 o=2 u=1 e=4 i=2 
+486 Wyjezdza za granice, to juz nie po odziez,   Liczba samoglosek: y=1 e=4 a=3 i=3 o=3 u=1 
+487 Nie szukac prawodawstwa w drukarskich kramarniach   Liczba samoglosek: i=3 e=1 u=2 a=8 o=1 
+488 Lub wymowy uczyc sie w paryskich kawiarniach.   Liczba samoglosek: u=2 y=4 o=1 i=4 e=1 a=4 
+489 Bo teraz Napoleon, czlek madry a predki,   Liczba samoglosek: o=3 e=4 a=4 y=1 i=1 
+490 Nie daje czasu szukac mody i gawedki.   Liczba samoglosek: i=3 e=3 a=4 u=2 o=1 y=1 
+491 Teraz grzmi orez, a nam starym serca rosna,   Liczba samoglosek: e=3 a=6 i=1 o=2 y=1 
+492 ze znowu o Polakach tak na swiecie glosno;   Liczba samoglosek: e=3 o=5 u=1 a=4 i=2 
+493 Jest slawa, a wiec bedzie i Rzeczpospolita!   Liczba samoglosek: e=5 a=4 i=4 o=2 
+494 Zawzdy z wawrzynow drzewo wolnosci wykwita.   Liczba samoglosek: a=3 y=3 o=4 e=1 i=2 
+495 Tylko smutno, ze nam, ach! tak sie lata wleka   Liczba samoglosek: y=1 o=2 u=1 e=3 a=6 i=1 
+496 W nieczynnosci! a oni tak zawsze daleko!   Liczba samoglosek: i=3 e=3 y=1 o=3 a=4 
+497 Tak dlugo czekac! Nawet tak rzadka nowina!   Liczba samoglosek: a=7 u=1 o=2 e=2 i=1 
+498 Ojcze Robaku (ciszej rzekl do Bernardyna),   Liczba samoglosek: o=3 e=4 a=3 u=1 i=1 y=1 
+499 Slyszalem, zes zza Niemna odebral wiadomosc;   Liczba samoglosek: y=1 a=5 e=4 i=2 o=3 
+500 Moze tez co o naszym wojsku wie Jegomosc?"   Liczba samoglosek: o=6 e=4 a=1 y=1 u=1 i=1 
+501 "Nic a nic - odpowiedzial Robak obojetnie   Liczba samoglosek: i=5 a=3 o=5 e=3 
+502 (Widac bylo, ze sluchal rozmowy niechetnie) -   Liczba samoglosek: i=3 a=2 y=2 o=3 e=4 u=1 
+503 Mnie polityka nudzi; jezeli z Warszawy   Liczba samoglosek: i=4 e=3 o=1 y=2 a=3 u=1 
+504 Mam list, to rzecz zakonna, to sa nasze sprawy   Liczba samoglosek: a=6 i=1 o=3 e=2 y=1 
+505 Bernardynskie; coz o tem gadac u wieczerzy?   Liczba samoglosek: e=5 a=3 y=2 i=2 o=2 u=1 
+506 Sa tu swieccy, do ktorych nic to nie nalezy".   Liczba samoglosek: a=2 u=1 i=3 e=3 y=3 o=3 
+507 Tak mowiac spojrzal zyzem, gdzie srod biesiadnikow   Liczba samoglosek: a=4 o=4 i=5 y=1 e=3 
+508 Siedzial gosc Moskal; byl to pan kapitan Rykow;   Liczba samoglosek: i=3 e=1 a=5 o=4 y=2 
+509 Stary zolnierz, stal w bliskiej wiosce na kwaterze,   Liczba samoglosek: a=4 y=1 o=2 i=4 e=5 
+510 Pan Sedzia go przez grzecznosc prosil na wieczerze.   Liczba samoglosek: a=3 e=6 i=3 o=3 
+511 Rykow jadl smaczno, malo wdawal sie w rozmowe,   Liczba samoglosek: y=1 o=5 a=5 i=1 e=2 
+512 Lecz na wzmianke Warszawy rzekl, podnioslszy glowe:   Liczba samoglosek: e=4 a=4 i=2 y=2 o=3 
+513 "Pan Podkomorzy! Oj, Wy! Pan zawsze ciekawy   Liczba samoglosek: a=4 o=4 y=3 e=2 i=1 
+514 O Bonaparta, zawsze Wam tam do Warszawy!   Liczba samoglosek: o=3 a=8 e=1 y=1 
+515 He! Ojczyzna! Ja nie szpieg, a po polsku umiem -   Liczba samoglosek: e=4 o=3 y=1 a=3 i=3 u=2 
+516 Ojczyzna! Ja to czuje wszystko, ja rozumiem!   Liczba samoglosek: o=4 y=2 a=3 u=2 e=2 i=1 
+517 Wy Polaki, ja Ruski, teraz sie nie bijem,   Liczba samoglosek: y=1 o=1 a=3 i=5 u=1 e=4 
+518 Jest armistycjum, to my razem jemy, pijem.   Liczba samoglosek: e=4 a=2 i=2 y=3 u=1 o=1 
+519 Czesto na awanpostach nasz z Francuzem gada,   Liczba samoglosek: e=2 o=2 a=8 u=1 
+520 Pije wodke; jak krzykna: ura! - kanonada.   Liczba samoglosek: i=1 e=2 o=2 a=6 y=1 u=1 
+521 Ruskie przyslowie: z kim sie bije, tego lubie;   Liczba samoglosek: u=2 i=6 e=6 y=1 o=2 
+522 Gladz druzke jak po duszy, a bij jak po szubie.   Liczba samoglosek: a=4 u=3 e=2 o=2 y=1 i=2 
+523 Ja mowie, bedzie wojna u nas. Do majora   Liczba samoglosek: a=5 o=4 i=2 e=3 u=1 
+524 Pluta adiutant sztabu przyjechal zawczora:   Liczba samoglosek: u=3 a=7 i=1 y=1 e=1 o=1 
+525 Gotowac sie do marszu! Pojdziem, czy pod Turka,   Liczba samoglosek: o=5 a=3 i=2 e=2 u=2 y=1 
+526 Czy na Francuza; oj, ten Bonapart figurka!   Liczba samoglosek: y=1 a=6 u=2 o=2 e=1 i=1 
+527 Bez Suworowa to on moze nas wytuza.   Liczba samoglosek: e=2 u=2 o=5 a=3 y=1 
+528 U nas w pulku gadano, jak szli na Francuza,   Liczba samoglosek: u=4 a=7 o=1 i=1 
+529 ze Bonapart czarowal, no, tak i Suwarow   Liczba samoglosek: e=1 o=4 a=6 i=1 u=1 
+530 Czarowal; tak i byly czary przeciw czarow.   Liczba samoglosek: a=5 o=2 i=2 y=3 e=1 
+531 Raz w bitwie, gdzie podzial sie? szukac Bonaparta -   Liczba samoglosek: a=6 i=5 e=3 o=2 u=1 
+532 A on zmienil sie w lisa, tak Suwarow w charta;   Liczba samoglosek: a=6 o=2 i=4 e=2 u=1 
+533 Tak Bonaparte znowu w kota sie przerzuca,   Liczba samoglosek: a=5 o=3 e=3 u=2 i=1 
+534 Dalej drzec pazurami, a Suwarow w kuca.   Liczba samoglosek: a=6 e=2 u=3 i=1 o=1 
+535 Obaczciez, co sie stalo w koncu z Bonaparta..."   Liczba samoglosek: o=5 a=5 i=2 e=2 u=1 
+536 Tu Rykow przerwal i jadl; wtem z potrawa czwarta   Liczba samoglosek: u=1 y=1 o=2 e=2 a=6 i=1 
+537 Wszedl sluzacy, i raptem boczne drzwi otwarto.   Liczba samoglosek: e=3 u=1 a=3 y=1 i=2 o=3 
+538 Weszla nowa osoba, przystojna i mloda;   Liczba samoglosek: e=1 a=5 o=5 y=1 i=1 
+539 Jej zjawienie sie nagle, jej wzrost i uroda,   Liczba samoglosek: e=6 a=3 i=4 o=2 u=1 
+540 Jej ubior zwrocil oczy; wszyscy ja witali;   Liczba samoglosek: e=1 u=1 i=4 o=3 y=3 a=2 
+541 Procz Tadeusza, widac, ze ja wszyscy znali.   Liczba samoglosek: o=1 a=5 e=2 u=1 i=2 y=2 
+542 Kibic miala wysmukla, ksztaltna, piers powabna,   Liczba samoglosek: i=4 a=7 y=1 u=1 e=1 o=1 
+543 Suknie materyjalna, rozowa, jedwabna,   Liczba samoglosek: u=1 i=1 e=3 a=6 y=1 o=2 
+544 Gors wyciety, kolnierzyk z koronek, rekawki   Liczba samoglosek: o=4 y=3 i=3 e=4 a=1 
+545 Krotkie, w reku krecila wachlarz dla zabawki   Liczba samoglosek: o=1 i=3 e=3 u=1 a=6 
+546 (Bo nie bylo goraca); wachlarz pozlocisty   Liczba samoglosek: o=5 i=2 e=1 y=2 a=4 
+547 Powiewajac rozlewal deszcz iskier rzesisty.   Liczba samoglosek: o=2 i=4 e=5 a=3 y=1 
+548 Glowa do wlosow, wlosy pozwijane w kregi,   Liczba samoglosek: o=6 a=2 y=1 i=2 e=2 
+549 W pukle, i przeplatane rozowymi wstegi,   Liczba samoglosek: u=1 e=4 i=3 a=2 o=2 y=1 
+550 Posrod nich brylant, niby zakryty od oczu,   Liczba samoglosek: o=4 i=2 y=4 a=2 u=1 
+551 swiecil sie jako gwiazda w komety warkoczu -   Liczba samoglosek: i=4 e=3 a=4 o=3 y=1 u=1 
+552 Slowem, ubior galowy; szeptali niejedni,   Liczba samoglosek: o=3 e=4 u=1 i=4 a=2 y=1 
+553 ze zbyt wykwintny na wies i na dzien powszedni.   Liczba samoglosek: e=4 y=3 i=5 a=2 o=1 
+554 Nozek, choc suknia krotka, oko nie zobaczy,   Liczba samoglosek: o=6 e=2 u=1 i=2 a=3 y=1 
+555 Bo biegla bardzo szybko, suwala sie raczej,   Liczba samoglosek: o=3 i=2 e=3 a=5 y=1 u=1 
+556 Jako osobki, ktore na trzykrolskie swieta   Liczba samoglosek: a=3 o=5 i=3 e=3 y=1 
+557 Przesuwaja w jaselkach ukryte chlopieta.   Liczba samoglosek: e=4 u=2 a=5 y=1 o=1 i=1 
+558 Biegla i wszystkich lekkim witajac uklonem,   Liczba samoglosek: i=5 e=3 a=3 y=1 u=1 o=1 
+559 Chciala usiesc na miejscu sobie zostawionem.   Liczba samoglosek: i=5 a=4 u=2 e=4 o=3 
+560 Trudno bylo; bo krzesel dla gosci nie stalo:   Liczba samoglosek: u=1 o=5 y=1 e=3 a=2 i=2 
+561 Na czterech lawach cztery ich rzedy siedzialo,   Liczba samoglosek: a=4 e=5 y=2 i=3 o=1 
+562 Trzeba bylo rzed ruszyc lub lawe przeskoczyc;   Liczba samoglosek: e=4 a=2 y=3 o=2 u=2 
+563 Zrecznie miedzy dwie lawy umiala sie wtloczyc,   Liczba samoglosek: e=5 i=5 y=3 a=3 u=1 o=1 
+564 A potem miedzy rzedem siedzacych i stolem   Liczba samoglosek: a=2 o=2 e=6 i=3 y=2 
+565 Jak bilardowa kula toczyla sie kolem.   Liczba samoglosek: a=5 i=2 o=3 u=1 y=1 e=2 
+566 W biegu dotknela blisko naszego mlodziana;   Liczba samoglosek: i=3 e=3 u=1 o=4 a=4 
+567 Uczepiwszy falbana o czyjes kolana,   Liczba samoglosek: u=1 e=2 i=1 y=2 a=5 o=2 
+568 Posliznela sie nieco i w tem roztargnieniu   Liczba samoglosek: o=3 i=6 e=5 a=2 u=1 
+569 Na pana Tadeusza wsparla sie ramieniu.   Liczba samoglosek: a=8 e=3 u=2 i=3 
+570 Przeprosiwszy go grzecznie, na miejscu swem siadla   Liczba samoglosek: e=5 o=2 i=4 y=1 a=3 u=1 
+571 Pomiedzy nim i stryjem, ale nic nie jadla,   Liczba samoglosek: o=1 i=5 e=4 y=2 a=3 
+572 Tylko sie wachlowala, to wachlarza trzonek   Liczba samoglosek: y=1 o=4 i=1 e=2 a=6 
+573 Krecila, to kolnierzyk z brabanckich koronek   Liczba samoglosek: e=3 i=3 a=3 o=4 y=1 
+574 Poprawiala, to lekkim dotknieniem sie reki   Liczba samoglosek: o=3 a=3 i=6 e=5 
+575 Muskala wlosow pukle i wstag jasnych peki.   Liczba samoglosek: u=2 a=4 o=2 e=2 i=2 y=1 
+576 Ta przerwa rozmow trwala juz minut ze cztery.   Liczba samoglosek: a=4 e=3 o=2 u=2 i=1 y=1 
+577 Tymczasem w koncu stola naprzod ciche szmery,   Liczba samoglosek: y=2 a=3 e=3 o=3 u=1 i=1 
+578 A potem sie zaczely wpolglosne rozmowy;   Liczba samoglosek: a=2 o=5 e=4 i=1 y=2 
+579 Mezczyzni rozsadzali swe dzisiejsze lowy.   Liczba samoglosek: e=4 y=2 i=4 o=2 a=2 
+580 Asesora z Rejentem wzmogla sie uparta,   Liczba samoglosek: a=5 e=5 o=2 i=1 u=1 
+581 Coraz glosniejsza klotnia o kusego charta,   Liczba samoglosek: o=5 a=5 i=2 e=2 u=1 
+582 Ktorego posiadaniem pan Rejent sie szczycil   Liczba samoglosek: o=3 e=5 i=4 a=3 y=1 
+583 I utrzymywal, ze on zajaca pochwycil;   Liczba samoglosek: i=2 u=1 y=3 a=4 e=1 o=2 
+584 Asesor zas dowodzil na zlosc Rejentowi,   Liczba samoglosek: a=3 e=3 o=5 i=2 
+585 ze ta chwala nalezy chartu Sokolowi.   Liczba samoglosek: e=2 a=5 y=1 u=1 o=3 i=1 
+586 Pytano zdania innych; wiec wszyscy dokola   Liczba samoglosek: y=4 a=4 o=3 i=3 e=1 
+587 Brali strone Kusego, albo tez Sokola,   Liczba samoglosek: a=3 i=1 o=5 e=3 u=1 
+588 Ci jak znawcy, ci znowu jak naoczne swiadki.   Liczba samoglosek: i=4 a=5 y=1 o=2 u=1 e=1 
+589 Sedzia na drugim koncu do nowej sasiadki   Liczba samoglosek: e=2 i=4 a=4 u=2 o=3 
+590 Rzekl polglosem: "Przepraszam, musielismy siadac,   Liczba samoglosek: e=4 o=2 a=4 u=1 i=3 y=1 
+591 Niepodobna wieczerzy na pozniej odkladac:   Liczba samoglosek: i=3 e=4 o=4 a=4 y=1 
+592 Goscie glodni, chodzili daleko na pole;   Liczba samoglosek: o=5 i=4 e=3 a=2 
+593 Myslilem, ze dzis z nami nie bedziesz przy stole".   Liczba samoglosek: y=2 i=5 e=6 a=1 o=1 
+594 To rzeklszy, z Podkomorzym przy pelnym kielichu   Liczba samoglosek: o=4 e=3 y=4 i=2 u=1 
+595 O politycznych sprawach rozmawial po cichu.   Liczba samoglosek: o=4 i=3 y=2 a=4 u=1 
+596 Gdy tak byly zajete stolu strony obie,   Liczba samoglosek: y=4 a=2 e=3 o=3 u=1 i=1 
+597 Tadeusz przygladal sie nieznanej osobie:   Liczba samoglosek: a=4 e=5 u=1 y=1 i=3 o=2 
+598 Przypomnial, ze za pierwszym na miejsce wejrzeniem   Liczba samoglosek: y=2 o=1 i=4 a=3 e=7 
+599 Odgadnal zaraz, czyim mialo byc siedzeniem.   Liczba samoglosek: o=2 a=5 y=2 i=4 e=3 
+600 Rumienil sie, serce mu bilo nadzwyczajnie;   Liczba samoglosek: u=2 i=5 e=5 o=1 a=2 y=1 
+601 Wiec rozwiazane widzial swych domyslow tajnie!   Liczba samoglosek: i=5 e=3 o=3 a=4 y=2 
+602 Wiec bylo przeznaczono, by przy jego boku   Liczba samoglosek: i=1 e=3 y=3 o=5 a=1 u=1 
+603 Usiadla owa pieknosc widziana w pomroku.   Liczba samoglosek: u=2 i=4 a=5 o=4 e=1 
+604 Wprawdzie zdala sie teraz wzrostem dorodniejsza,   Liczba samoglosek: a=5 i=3 e=5 o=3 
+605 Bo ubrana, a ubior powieksza i zmniejsza.   Liczba samoglosek: o=3 u=2 a=5 i=4 e=2 
+606 I wlos u tamtej widzial krotki, jasnozloty,   Liczba samoglosek: i=4 o=4 u=1 a=3 e=1 y=1 
+607 A u tej krucze, dlugie zwijaly sie sploty.   Liczba samoglosek: a=2 u=3 e=4 i=3 y=2 o=1 
+608 Kolor musial pochodzic od slonca promieni,   Liczba samoglosek: o=7 u=1 i=4 a=2 e=1 
+609 Ktoremi przy zachodzie wszystko sie czerwieni.   Liczba samoglosek: o=3 e=5 i=5 y=2 a=1 
+610 Twarzy wowczas nie dostrzegl, nazbyt rychlo znikla,   Liczba samoglosek: a=4 y=3 o=3 i=2 e=2 
+611 Ale mysl twarz nadobna odgadywac zwykla;   Liczba samoglosek: a=7 e=1 y=3 o=2 
+612 Myslil, ze pewnie miala czarniutkie oczeta,   Liczba samoglosek: y=1 i=5 e=5 a=4 u=1 o=1 
+613 Biala twarz, usta krasne jak wisnie bliznieta;   Liczba samoglosek: i=5 a=7 u=1 e=3 
+614 U tej znalazl podobne oczy, usta, lica;   Liczba samoglosek: u=2 e=2 a=4 o=3 y=1 i=1 
+615 W wieku moze by byla najwieksza roznica:   Liczba samoglosek: i=3 e=3 u=1 o=2 y=2 a=4 
+616 Ogrodniczka dziewczynka zdawala sie mala,   Liczba samoglosek: o=2 i=3 a=7 e=2 y=1 
+617 A pani ta niewiasta juz w latach dojrzala;   Liczba samoglosek: a=9 i=3 e=1 u=1 o=1 
+618 Lecz mlodziez o pieknosci metryke nie pyta,   Liczba samoglosek: e=6 o=3 i=4 y=2 a=1 
+619 Bo mlodziencowi mloda jest kazda kobieta,   Liczba samoglosek: o=5 i=3 e=3 a=4 
+620 Chlopcowi kazda pieknosc zda sie rowiennica,   Liczba samoglosek: o=4 i=5 a=4 e=3 
+621 A niewinnemu kazda kochanka dziewica.   Liczba samoglosek: a=6 i=4 e=3 u=1 o=1 
+622 Tadeusz, chociaz liczyl lat blisko dwadziescie   Liczba samoglosek: a=4 e=3 u=1 o=2 i=5 y=1 
+623 I od dziecinstwa mieszkal w Wilnie, wielkim miescie,   Liczba samoglosek: i=10 o=1 e=6 a=2 
+624 Mial za dozorce ksiedza, ktory go pilnowal   Liczba samoglosek: i=3 a=4 o=5 e=2 y=1 
+625 I w dawnej surowosci prawidlach wychowal.   Liczba samoglosek: i=3 a=4 e=1 u=1 o=3 y=1 
+626 Tadeusz zatem przywiozl w strony swe rodzinne   Liczba samoglosek: a=2 e=4 u=1 y=2 i=2 o=3 
+627 Dusze czysta, mysl zywa i serce niewinne,   Liczba samoglosek: u=1 e=5 y=3 a=2 i=3 
+628 Ale razem niemala chetke do swywoli.   Liczba samoglosek: a=4 e=5 i=2 o=2 y=1 
+629 Z gory juz robil projekt, ze sobie pozwoli   Liczba samoglosek: o=6 y=1 u=1 i=3 e=3 
+630 Uzywac na wsi dlugo wzbronionej swobody;   Liczba samoglosek: u=2 y=2 a=2 i=2 o=5 e=1 
+631 Wiedzial, ze byl przystojny, czul sie rzeski, mlody,   Liczba samoglosek: i=4 e=4 a=1 y=4 o=2 u=1 
+632 A w spadku po rodzicach wzial czerstwosc i zdrowie.   Liczba samoglosek: a=4 u=1 o=4 i=4 e=2 
+633 Nazywal sie Soplica; wszyscy Soplicowie   Liczba samoglosek: a=3 y=3 i=4 e=2 o=3 
+634 Sa, jak wiadomo, krzepcy, otyli i silni,   Liczba samoglosek: a=3 i=5 o=3 e=1 y=2 
+635 Do zolnierki jedyni, w naukach mniej pilni.   Liczba samoglosek: o=2 i=6 e=3 y=1 a=2 u=1 
+636 Tadeusz sie od przodkow swoich nie odrodzil:   Liczba samoglosek: a=1 e=3 u=1 i=4 o=6 
+637 Dobrze na koniu jezdzil, pieszo dzielnie chodzil,   Liczba samoglosek: o=4 e=5 a=1 i=6 u=1 
+638 Tepy nie byl, lecz malo w naukach postapil,   Liczba samoglosek: e=3 y=2 i=2 a=4 o=2 u=1 
+639 Choc stryj na wychowanie niczego nie skapil.   Liczba samoglosek: o=3 y=2 a=3 i=4 e=3 
+640 On wolal z flinty strzelac albo szabla robic;   Liczba samoglosek: o=4 a=5 i=2 y=1 e=1 
+641 Wiedzial, ze go myslano do wojska sposobic,   Liczba samoglosek: i=3 e=2 a=3 o=6 y=1 
+642 ze ojciec w testamencie wyrzekl taka wole;   Liczba samoglosek: e=7 o=2 i=2 a=3 y=1 
+643 Ustawicznie do bebna tesknil, siedzac w szkole.   Liczba samoglosek: u=1 a=3 i=4 e=5 o=2 
+644 Ale stryj nagle pierwsze zamiary odmienil,   Liczba samoglosek: a=4 e=5 y=2 i=4 o=1 
+645 Kazal, aby przyjechal i aby sie zenil,   Liczba samoglosek: a=5 y=3 e=3 i=3 
+646 I objal gospodarstwo; przyrzekl na poczatek   Liczba samoglosek: i=1 o=5 a=4 y=1 e=2 
+647 Dac mala wies, a potem caly swoj majatek.   Liczba samoglosek: a=7 i=1 e=3 o=2 y=1 
+648 Te wszystkie Tadeusza cnoty i zalety   Liczba samoglosek: e=4 y=3 i=2 a=3 u=1 o=1 
+649 sciagnely wzrok sasiadki, uwaznej kobiety.   Liczba samoglosek: i=4 a=4 e=3 y=2 o=2 u=1 
+650 Zmierzyla jego postac ksztaltna i wysoka,   Liczba samoglosek: i=2 e=2 y=2 a=5 o=3 
+651 Jego ramiona silne, jego piers szeroka   Liczba samoglosek: e=5 o=4 a=3 i=3 
+652 I w twarz spojrzala, z ktorej wytryskal rumieniec,   Liczba samoglosek: i=3 a=4 o=2 e=3 y=2 u=1 
+653 Ilekroc z jej oczyma spotkal sie mlodzieniec:   Liczba samoglosek: i=4 e=5 o=4 y=1 a=2 
+654 Bo z pierwszej lekliwosci calkiem juz ochlonal   Liczba samoglosek: o=4 i=4 e=4 a=2 u=1 
+655 I patrzyl wzrokiem smialym, w ktorym ogien plonal.   Liczba samoglosek: i=4 a=3 y=3 o=4 e=2 
+656 Rowniez patrzyla ona, i cztery zrenice   Liczba samoglosek: o=2 i=3 e=4 a=3 y=2 
+657 Gorzaly przeciw sobie jak roratne swiece.   Liczba samoglosek: o=3 a=3 y=1 e=5 i=3 
+658 Pierwsza z nim po francusku zaczela rozmowe;   Liczba samoglosek: i=2 e=3 a=4 o=3 u=2 
+659 Wracal z miasta, ze szkoly: wiec o ksiazki nowe,   Liczba samoglosek: a=5 i=4 e=3 o=3 y=1 
+660 O autorow pytala Tadeusza zdania   Liczba samoglosek: o=3 a=7 u=2 y=1 e=1 i=1 
+661 I ze zdan wyciagala na nowo pytania;   Liczba samoglosek: i=3 e=1 a=7 y=2 o=2 
+662 Coz gdy potem zaczela mowic o malarstwie,   Liczba samoglosek: o=4 y=1 e=3 a=4 i=2 
+663 O muzyce, o tancach, nawet o rzezbiarstwie!   Liczba samoglosek: o=3 u=1 y=1 e=4 a=4 i=2 
+664 Dowiodla, ze zna rownie pedzel, noty, druki;   Liczba samoglosek: o=4 i=3 a=2 e=4 y=1 u=1 
+665 Az oslupial Tadeusz na tyle nauki,   Liczba samoglosek: a=5 o=1 u=3 i=2 e=2 y=1 
+666 Lekal sie, by nie zostal posmiewiska celem,   Liczba samoglosek: e=6 a=3 i=4 y=1 o=2 
+667 I jakal sie jak zaczek przed nauczycielem.   Liczba samoglosek: i=3 a=5 e=5 u=1 y=1 
+668 Szczesciem, ze nauczyciel ladny i niesrogi;   Liczba samoglosek: e=5 i=5 a=2 u=1 y=2 o=1 
+669 Odgadnela sasiadka powod jego trwogi,   Liczba samoglosek: o=5 a=5 e=2 i=2 
+670 Wszczela rzecz o mniej trudnych i madrych przedmiotach:   Liczba samoglosek: e=4 a=3 o=2 i=3 u=1 y=2 
+671 O wiejskiego pozycia nudach i klopotach,   Liczba samoglosek: o=5 i=4 e=2 y=1 a=3 u=1 
+672 I jak bawic sie trzeba, i jak czas podzielic,   Liczba samoglosek: i=6 a=5 e=3 o=1 
+673 By zycie uprzyjemnic i wies rozweselic.   Liczba samoglosek: y=3 i=5 e=5 u=1 o=1 
+674 Tadeusz odpowiadal smielej, szla rzecz dalej,   Liczba samoglosek: a=5 e=5 u=1 o=2 i=2 
+675 W pol godziny juz byli z soba poufali;   Liczba samoglosek: o=4 i=3 y=2 u=2 a=2 
+676 Zaczeli nawet male zarciki i sprzeczki.   Liczba samoglosek: a=4 e=4 i=5 
+677 W koncu, stawila przed nim trzy z chleba galeczki:   Liczba samoglosek: o=1 u=1 a=4 i=3 e=3 y=1 
+678 Trzy osoby na wybor; wzial najblizsza sobie;   Liczba samoglosek: y=3 o=4 a=4 i=3 e=1 
+679 Podkomorzanki na to zmarszczyly sie obie,   Liczba samoglosek: o=5 a=3 i=3 y=2 e=2 
+680 Sasiadka zasmiala sie, lecz nie powiedziala,   Liczba samoglosek: a=8 i=6 e=4 o=1 
+681 Kogo owa szczesliwa galka oznaczala.   Liczba samoglosek: o=4 a=7 e=1 i=1 
+682 Inaczej bawiono sie w drugim koncu stola,   Liczba samoglosek: i=4 a=3 e=2 o=4 u=2 
+683 Bo tam, wzmoglszy sie nagle, stronnicy Sokola   Liczba samoglosek: o=5 a=3 y=2 i=2 e=2 
+684 Na partyje Kusego bez litosci wsiedli:   Liczba samoglosek: a=2 y=1 e=4 u=1 o=2 i=4 
+685 Spor byl wielki, juz potraw ostatnich nie jedli.   Liczba samoglosek: o=3 y=1 i=5 e=3 u=1 a=2 
+686 Stojac i pijac obie klocily sie strony,   Liczba samoglosek: o=4 a=2 i=5 e=2 y=2 
+687 A najstraszniej pan Rejent byl zacietrzewiony:   Liczba samoglosek: a=5 i=3 e=5 y=2 o=1 
+688 Jak raz zaczal, bez przerwy rzecz swoje tokowal   Liczba samoglosek: a=5 e=4 y=1 o=3 
+689 I gestami ja bardzo dobitnie malowal.   Liczba samoglosek: i=4 e=2 a=5 o=3 
+690 (Byl dawniej adwokatem pan rejent Bolesta,   Liczba samoglosek: y=1 a=5 i=1 e=5 o=2 
+691 Zwano go kaznodzieja, ze zbyt lubil gesta).   Liczba samoglosek: a=4 o=3 i=2 e=3 y=1 u=1 
+692 Teraz rece przy boku mial, w tyl wygial lokcie,   Liczba samoglosek: e=4 a=3 y=3 o=2 u=1 i=3 
+693 Spod ramion wytknal palce i dlugie paznokcie,   Liczba samoglosek: o=3 a=4 i=4 y=1 e=3 u=1 
+694 Przedstawiajac dwa smycze chartow tym obrazem.   Liczba samoglosek: e=3 a=6 i=1 y=2 o=2 
+695 Wlasnie rzecz konczyl: "Wyczha! puscilismy razem   Liczba samoglosek: a=3 i=3 e=3 o=1 y=3 u=1 
+696 Ja i Asesor, razem, jakoby dwa korki   Liczba samoglosek: a=5 i=2 e=2 o=3 y=1 
+697 Jednym palcem spuszczone u jednej dwororki;   Liczba samoglosek: e=5 y=1 a=1 u=2 o=3 i=1 
+698 Wyczha! poszli, a zajac jak struna - smyk w pole,   Liczba samoglosek: y=2 a=6 o=2 i=1 u=1 e=1 
+699 Psy tuz (to mowiac, rece ciagnal wzdluz po stole   Liczba samoglosek: y=1 u=2 o=4 i=2 a=3 e=3 
+700 I palcami ruch chartow przedziwnie udawal),   Liczba samoglosek: i=4 a=5 u=2 o=1 e=2 
+701 Psy tuz, i hec! od lasu odsadzili kawal;   Liczba samoglosek: y=1 u=2 i=3 e=1 o=2 a=4 
+702 Sokol smyk naprzod, raczy pies, lecz zagorzalec,   Liczba samoglosek: o=4 y=2 a=4 i=1 e=3 
+703 Wysadzil sie przed Kusym o tyle, o palec;   Liczba samoglosek: y=3 a=2 i=2 e=4 u=1 o=2 
+704 Wiedzialem, ze spudluje; szarak, gracz nie lada,   Liczba samoglosek: i=3 e=5 a=6 u=2 
+705 Czchal niby prosto w pole, za nim psow gromada;   Liczba samoglosek: a=4 i=2 y=1 o=5 e=1 
+706 Gracz szarak! skoro poczul wszystkie charty w kupie,   Liczba samoglosek: a=4 o=3 u=2 y=2 i=2 e=2 
+707 Pstrek na prawo, koziolka, z nim w prawo psy glupie,   Liczba samoglosek: e=2 a=4 o=4 i=3 y=1 u=1 
+708 A on znowu fajt w lewo, jak wytnie dwa susy,   Liczba samoglosek: a=4 o=3 u=2 e=2 y=2 i=1 
+709 Psy za nim fajt na lewo, on w las, a moj Kusy   Liczba samoglosek: y=2 a=5 i=1 e=1 o=3 u=1 
+710 Cap !!" - tak krzyczac pan Rejent, na stol pochylony,   Liczba samoglosek: a=5 y=3 e=2 o=3 
+711 Z palcami swemi zabiegl az do drugiej strony   Liczba samoglosek: a=4 i=4 e=3 o=2 u=1 y=1 
+712 I "cap!" - Tadeuszowi wrzasnal tuz nad uchem.   Liczba samoglosek: i=2 a=5 e=2 u=3 o=1 
+713 Tadeusz i sasiadka, tym glosu wybuchem   Liczba samoglosek: a=4 e=2 u=3 i=2 y=2 o=1 
+714 Znienacka przestraszeni wlasnie w pol rozmowy,   Liczba samoglosek: i=3 e=4 a=4 o=3 y=1 
+715 Odstrychneli od siebie mimowolnie glowy,   Liczba samoglosek: o=5 y=2 e=4 i=5 
+716 Jako wierzcholki drzewa powiazane spolem,   Liczba samoglosek: a=4 o=4 i=3 e=4 
+717 Gdy je wicher rozerwie; i rece pod stolem   Liczba samoglosek: y=1 e=7 i=3 o=3 
+718 Blisko siebie lezace wstecz nagle uciekly,   Liczba samoglosek: i=4 o=1 e=7 a=2 u=1 y=1 
+719 I dwie twarze w jeden sie rumieniec oblekly.   Liczba samoglosek: i=5 e=8 a=1 u=1 o=1 y=1 
+720 Tadeusz, by nie zdradzic swego roztargnienia:   Liczba samoglosek: a=4 e=4 u=1 y=1 i=4 o=2 
+721 "Prawda - rzekl - moj Rejencie, prawda, bez watpienia,   Liczba samoglosek: a=6 e=6 o=1 i=3 
+722 Kusy piekny chart z ksztaltu, jesli rownie chwytny..."   Liczba samoglosek: u=2 y=4 i=3 e=3 a=2 o=1 
+723 "Chwytny? - krzyknal pan Rejent. - Moj pies faworytny   Liczba samoglosek: y=5 a=3 e=3 o=2 i=1 
+724 zeby nie mial byc chwytny?" Wiec Tadeusz znowu   Liczba samoglosek: e=4 y=4 i=3 a=2 u=2 o=1 
+725 Cieszyl sie, ze tak piekny pies nie ma narowu,   Liczba samoglosek: i=5 e=6 y=2 a=3 o=1 u=1 
+726 zalowal, ze go tylko widzial idac z lasu   Liczba samoglosek: a=5 o=3 e=1 y=1 i=3 u=1 
+727 I ze przymiotow jego poznac nie mial czasu.   Liczba samoglosek: i=4 e=3 y=1 o=4 a=3 u=1 
+728 Na to zadrzal Asesor, puscil z rak kieliszek,   Liczba samoglosek: a=5 o=2 e=3 u=1 i=3 
+729 Utopil w Tadeusza wzrok jak bazyliszek.   Liczba samoglosek: u=2 o=2 i=2 a=4 e=2 y=1 
+730 Asesor mniej krzykliwy i mniej byl ruchawy   Liczba samoglosek: a=2 e=3 o=1 i=4 y=4 u=1 
+731 Od Rejenta, szczuplejszy i maly z postawy,   Liczba samoglosek: o=2 e=3 a=3 u=1 y=3 i=1 
+732 Lecz straszny na reducie, balu i sejmiku,   Liczba samoglosek: e=4 a=3 y=1 u=3 i=3 
+733 Bo powiadano o nim: ma zadlo w jezyku.   Liczba samoglosek: o=5 i=2 a=4 e=1 y=1 u=1 
+734 Tak dowcipne zarciki umial komponowac,   Liczba samoglosek: a=4 o=4 i=4 e=1 u=1 
+735 Izby je w kalendarzu mozna wydrukowac:   Liczba samoglosek: i=1 y=2 e=2 a=4 u=2 o=2 
+736 Wszystkie zlosliwe, ostre. Dawniej czlek dostatni,   Liczba samoglosek: y=1 i=4 e=5 o=3 a=2 
+737 Schede ojca swojego i majatek bratni,   Liczba samoglosek: e=4 o=3 a=4 i=2 
+738 Wszystko strwonil, na wielkim figurujac swiecie;   Liczba samoglosek: y=1 o=2 i=6 a=2 e=3 u=2 
+739 Teraz wszedl w sluzbe rzadu, by znaczyc w powiecie.   Liczba samoglosek: e=5 a=3 u=2 y=2 o=1 i=2 
+740 Lubil bardzo myslistwo, juz to dla zabawy,   Liczba samoglosek: u=2 i=2 a=4 o=3 y=2 
+741 Juz to ze odglos trabki i widok oblawy   Liczba samoglosek: u=1 o=5 e=1 a=2 i=3 y=1 
+742 Przypominal mu jego lata mlodociane,   Liczba samoglosek: y=1 o=4 i=2 a=4 u=1 e=2 
+743 Kiedy mial strzelcow licznych i psy zawolane;   Liczba samoglosek: i=4 e=3 y=3 a=3 o=2 
+744 Teraz mu z calej psiarni dwa charty zostaly,   Liczba samoglosek: e=2 a=6 u=1 i=2 y=2 o=1 
+745 I jeszcze z tych jednemu chciano przeczyc chwaly.   Liczba samoglosek: i=2 e=5 y=3 u=1 a=2 o=1 
+746 Wiec zblizyl sie i, z wolna gladzac faworyty,   Liczba samoglosek: i=4 e=2 y=3 o=2 a=4 
+747 Rzekl z usmiechem, a byl to usmiech jadowity:   Liczba samoglosek: e=4 u=2 i=3 a=2 y=2 o=2 
+748 "Chart bez ogona jest jak szlachcic bez urzedu...   Liczba samoglosek: a=4 e=4 o=2 i=1 u=2 
+749 Ogon tez znacznie chartom pomaga do pedu,   Liczba samoglosek: o=5 e=3 a=4 i=1 u=1 
+750 A Pan kusosc uwazasz za dowod dobroci?   Liczba samoglosek: a=5 u=2 o=5 i=1 
+751 Zreszta zdac sie mozemy na sad Panskiej cioci.   Liczba samoglosek: e=4 a=5 i=4 o=2 y=1 
+752 Choc pani Telimena mieszkala w stolicy   Liczba samoglosek: o=2 a=4 i=4 e=3 y=1 
+753 I bawi sie niedawno w naszej okolicy,   Liczba samoglosek: i=5 a=3 e=3 o=3 y=1 
+754 Lepiej zna sie na lowach niz mysliwi mlodzi:   Liczba samoglosek: e=3 i=6 a=3 o=2 y=1 
+755 Tak to nauka sama z latami przychodzi".   Liczba samoglosek: a=7 o=2 u=1 i=2 y=1 
+756 Tadeusz, na ktorego niespodzianie spadal   Liczba samoglosek: a=5 e=4 u=1 o=3 i=3 
+757 Grom taki, wstal zmieszany, chwile nic nie gadal,   Liczba samoglosek: o=1 a=5 i=5 e=3 y=1 
+758 Lecz patrzyl na rywala coraz straszniej, srozej...   Liczba samoglosek: e=3 a=6 y=2 o=2 i=1 
+759 Wtem, wielkim szczesciem, dwakroc kichnal Podkomorzy.   Liczba samoglosek: e=4 i=4 a=2 o=4 y=1 
+760 "Wiwat!" - krzykneli wszyscy; on sie wszystkim sklonil   Liczba samoglosek: i=5 a=1 y=4 e=2 o=2 
+761 I z wolna w tabakiere palcami zadzwonil:   Liczba samoglosek: i=4 o=2 a=6 e=2 
+762 Tabakiera ze zlota, z brylantow oprawa,   Liczba samoglosek: a=7 i=1 e=2 o=3 y=1 
+763 A w srodku jej byl portret krola Stanislawa.   Liczba samoglosek: a=5 o=3 u=1 e=2 y=1 i=1 
+764 Ojcu Podkomorzego sam krol ja darowal,   Liczba samoglosek: o=7 u=1 e=1 a=4 
+765 Po ojcu Podkomorzy godnie ja piastowal;   Liczba samoglosek: o=7 u=1 y=1 i=2 e=1 a=3 
+766 Gdy w nie dzwonil, znak dawal, ze mial glos zabierac;   Liczba samoglosek: y=1 i=4 e=3 o=2 a=6 
+767 Umilkli wszyscy i ust nie smieli otwierac.   Liczba samoglosek: u=2 i=7 y=2 e=3 o=1 a=1 
+768 On rzekl:   Liczba samoglosek: o=1 e=1 
+769 "Wielmozni Szlachta, Bracia Dobrodzieje!   Liczba samoglosek: i=4 e=3 o=3 a=4 
+770 Forum mysliwskiem tylko sa laki i knieje,   Liczba samoglosek: o=2 u=1 y=2 i=5 e=3 a=2 
+771 Wiec ja w domu podobnych spraw nie decyduje   Liczba samoglosek: i=2 e=4 a=2 o=3 u=2 y=2 
+772 I posiedzenie nasze na jutro solwuje,   Liczba samoglosek: i=3 o=3 e=5 a=2 u=2 
+773 I dalszych replik stronom dzisiaj nie dozwole.   Liczba samoglosek: i=5 a=2 y=1 e=3 o=4 
+774 Wozny! odwolaj sprawe na jutro na pole.   Liczba samoglosek: o=5 y=1 a=4 e=2 u=1 
+775 Jutro i Hrabia z calym myslistwem tu zjedzie,   Liczba samoglosek: u=2 o=1 i=4 a=3 y=2 e=3 
+776 I Waszec z nami ruszysz, Sedzio, moj sasiedzie,   Liczba samoglosek: i=5 a=3 e=4 u=1 y=1 o=2 
+777 I pani Telimena, i panny, i panie,   Liczba samoglosek: i=6 a=4 e=3 y=1 
+778 Slowem, zrobim na urzad wielkie polowanie;   Liczba samoglosek: o=4 e=4 i=4 a=3 u=1 
+779 I Wojski towarzystwa nam tez nie odmowi".   Liczba samoglosek: i=4 o=4 a=3 y=1 e=2 
+780 To mowiac tabakiere podawal starcowi.   Liczba samoglosek: o=4 i=3 a=6 e=2 
+781 Wojski na ostrym koncu srod mysliwych siedzial,   Liczba samoglosek: o=4 i=4 a=2 y=3 u=1 e=1 
+782 Sluchal zmruzywszy oczy, slowa nie powiedzial,   Liczba samoglosek: u=2 a=3 y=3 o=3 i=3 e=2 
+783 Choc mlodziez nieraz jego zasiegala zdania,   Liczba samoglosek: o=3 i=4 e=4 a=6 
+784 Bo nikt lepiej nad niego nie znal polowania.   Liczba samoglosek: o=4 i=5 e=4 a=4 
+785 On milczal, szczypte wzieta z tabakiery wazyl   Liczba samoglosek: o=1 i=3 a=5 y=3 e=3 
+786 W palcach i dlugo dumal, nim ja w koncu zazyl;   Liczba samoglosek: a=5 i=2 u=3 o=2 y=1 
+787 Kichnal, az cala izba rozlegla sie echem,   Liczba samoglosek: i=3 a=6 o=1 e=4 
+788 I potrzasajac glowa rzekl z gorzkim usmiechem:   Liczba samoglosek: i=3 o=3 a=4 e=3 u=1 
+789 "O, jak mnie to starego i smuci, i dziwi!   Liczba samoglosek: o=3 a=2 i=6 e=2 u=1 
+790 Coz by to o tym starzy mowili mysliwi,   Liczba samoglosek: o=4 y=4 a=1 i=4 
+791 Widzac, ze w tylu szlachty, w tylu panow gronie   Liczba samoglosek: i=2 a=3 e=2 y=3 u=2 o=2 
+792 Maja sadzic sie spory o charcim ogonie;   Liczba samoglosek: a=4 i=4 e=2 o=4 y=1 
+793 Coz by rzekl na to stary Rejtan, gdyby ozyl?   Liczba samoglosek: o=3 y=5 e=2 a=3 
+794 Wrocilby do Lachowicz i w grob sie polozyl!   Liczba samoglosek: o=6 i=4 y=2 a=1 e=1 
+795 Co by rzekl wojewoda Niesiolowski stary,   Liczba samoglosek: o=5 y=2 e=3 a=2 i=3 
+796 Ktory ma dotad pierwsze na swiecie ogary   Liczba samoglosek: o=3 y=2 a=4 i=3 e=4 
+797 I dwiestu strzelcow trzyma obyczajem panskim,   Liczba samoglosek: i=3 e=3 u=1 o=2 y=2 a=3 
+798 I ma sto wozow sieci w zamku woronczanskim,   Liczba samoglosek: i=4 a=3 o=5 e=1 u=1 
+799 A od tylu lat siedzi jak mnich na swym dworze.   Liczba samoglosek: a=4 o=2 y=2 u=1 i=3 e=2 
+800 Nikt go na polowanie uprosic nie moze,   Liczba samoglosek: i=4 o=5 a=2 e=3 u=1 
+801 Bialopiotrowiczowi samemu odmowil!   Liczba samoglosek: i=5 a=2 o=6 e=1 u=1 
+802 Bo coz by on na waszych polowaniach lowil?   Liczba samoglosek: o=6 y=2 a=4 i=2 
+803 Piekna bylaby slawa, azeby pan taki   Liczba samoglosek: i=2 e=2 a=7 y=3 
+804 Wedle dzisiejszej mody jezdzil na szaraki!   Liczba samoglosek: e=5 i=4 o=1 y=1 a=3 
+805 Za moich, panie, czasow w jezyku strzeleckim   Liczba samoglosek: a=3 o=2 i=3 e=4 y=1 u=1 
+806 Dzik, niedzwiedz, los, wilk zwany byl zwierzem szlacheckim,   Liczba samoglosek: i=6 e=5 o=1 a=2 y=2 
+807 A zwierze nie majace klow, rogow, pazurow   Liczba samoglosek: a=4 i=2 e=4 o=4 u=1 
+808 Zostawiano dla platnych slug i dworskich ciurow;   Liczba samoglosek: o=4 a=4 i=4 y=1 u=2 
+809 zaden pan nigdy przyjac nie chcialby do reki   Liczba samoglosek: a=4 e=3 i=4 y=3 o=1 
+810 Strzelby, ktora zhanbiono, sypiac w nia srut cienki!   Liczba samoglosek: e=2 y=2 o=3 a=4 i=5 u=1 
+811 Trzymano wprawdzie chartow, bo z lowow wracajac,   Liczba samoglosek: y=1 a=6 o=5 i=1 e=1 
+812 Trafia sie, ze spod konia mknie sie biedak zajac;   Liczba samoglosek: a=6 i=6 e=5 o=2 
+813 Puszczano wtenczas za nim dla zabawki smycze   Liczba samoglosek: u=1 a=6 o=1 e=2 i=2 y=1 
+814 I na konikach male gonily panicze   Liczba samoglosek: i=4 a=4 o=2 e=2 y=1 
+815 Przed oczami rodzicow, ktorzy te pogonie   Liczba samoglosek: e=3 o=6 a=1 i=3 y=1 
+816 Ledwie raczyli widziec, coz klocic sie o nie!   Liczba samoglosek: e=5 i=7 a=1 y=1 o=3 
+817 Wiec niech Jasnie Wielmozny Podkomorzy raczy   Liczba samoglosek: i=4 e=4 a=2 o=4 y=3 
+818 Odwolac swe rozkazy i niech mi wybaczy,   Liczba samoglosek: o=3 a=3 e=2 y=3 i=3 
+819 ze nie moge na takie jechac polowanie   Liczba samoglosek: e=6 i=3 o=3 a=4 
+820 I nigdy na niem noga moja nie postanie!   Liczba samoglosek: i=5 y=1 a=4 e=3 o=3 
+821 Nazywam sie Hreczecha, a od krola Lecha   Liczba samoglosek: a=6 y=1 i=1 e=4 o=2 
+822 zaden za zajacami nie jezdzil Hreczecha".   Liczba samoglosek: a=6 e=5 i=3 
+823 Tu smiech mlodziezy mowe Wojskiego zagluszyl.   Liczba samoglosek: u=2 i=3 e=4 o=4 y=2 a=1 
+824 Wstano od stolu; pierwszy Podkomorzy ruszyl;   Liczba samoglosek: a=1 o=6 u=2 i=1 e=1 y=3 
+825 Z wieku mu i z urzedu ten zaszczyt nalezy;   Liczba samoglosek: i=2 e=4 u=4 a=2 y=2 
+826 Idac klanial sie damom, starcom i mlodziezy;   Liczba samoglosek: i=5 a=5 e=2 o=3 y=1 
+827 Za nim szedl kwestarz, Sedzia tuz przy Bernardynie,   Liczba samoglosek: a=4 i=3 e=5 u=1 y=2 
+828 Sedzia u progu reke dal Podkomorzynie,   Liczba samoglosek: e=4 i=2 a=2 u=2 o=4 y=1 
+829 Tadeusz Telimenie, Asesor Krajczance,   Liczba samoglosek: a=4 e=6 u=1 i=2 o=1 
+830 A pan Rejent na koncu Wojskiej Hreczeszance.   Liczba samoglosek: a=4 e=6 o=2 u=1 i=1 
+831 Tadeusz z kilku goscmi poszedl do stodoly,   Liczba samoglosek: a=1 e=2 u=2 i=2 o=5 y=1 
+832 A czul sie pomieszany, zly i niewesoly,   Liczba samoglosek: a=2 u=1 i=4 e=4 o=2 y=3 
+833 Rozbieral mysla wszystkie dzisiejsze wypadki:   Liczba samoglosek: o=1 i=5 e=4 a=3 y=3 
+834 Spotkanie sie, wieczerze przy boku sasiadki,   Liczba samoglosek: o=2 a=3 i=5 e=5 y=1 u=1 
+835 A szczegolniej mu slowo "ciocia" kolo ucha   Liczba samoglosek: a=3 e=2 o=6 i=3 u=2 
+836 Brzeczalo ciagle jako naprzykrzona mucha.   Liczba samoglosek: e=2 a=6 o=3 i=1 y=1 u=1 
+837 Pragnalby u Woznego lepiej sie wypytac   Liczba samoglosek: a=3 y=3 u=1 o=2 e=4 i=2 
+838 O pani Telimenie, lecz go nie mogl schwytac;   Liczba samoglosek: o=3 a=2 i=4 e=5 y=1 
+839 Wojskiego tez nie widzial, bo zaraz z wieczerzy   Liczba samoglosek: o=3 i=5 e=5 a=3 y=1 
+840 Wszyscy poszli za goscmi, jak slugom nalezy,   Liczba samoglosek: y=3 o=3 i=2 a=3 u=1 e=1 
+841 Urzadzajac we dworze izby do spoczynku.   Liczba samoglosek: u=2 a=3 e=2 o=3 i=1 y=2 
+842 Starsi i damy spaly we dworskim budynku,   Liczba samoglosek: a=3 i=3 y=3 e=1 o=1 u=2 
+843 Mlodziez Tadeuszowi prowadzic kazano,   Liczba samoglosek: o=4 i=3 e=2 a=4 u=1 
+844 W zastepstwie gospodarza, w stodole na siano.   Liczba samoglosek: a=5 e=3 i=2 o=5 
+845 W pol godziny tak bylo glucho w calym dworze   Liczba samoglosek: o=5 i=1 y=3 a=2 u=1 e=1 
+846 Jako po zadzwonieniu na pacierz w klasztorze;   Liczba samoglosek: a=5 o=4 i=3 e=3 u=1 
+847 Cisze przerywal tylko glos nocnego stroza.   Liczba samoglosek: i=1 e=3 y=2 a=2 o=5 
+848 Usneli wszyscy. Sedzia sam oczu nie zmruza:   Liczba samoglosek: u=3 e=3 i=3 y=2 a=3 o=1 
+849 Jako wodz gospodarstwa obmysla wyprawe   Liczba samoglosek: a=5 o=5 y=2 e=1 
+850 W pole i w domu przyszla urzadza zabawe.   Liczba samoglosek: o=2 e=2 i=1 u=2 y=1 a=5 
+851 Dal rozkaz ekonomom, wojtom i gumiennym,   Liczba samoglosek: a=2 o=6 e=2 i=2 u=1 y=1 
+852 Pisarzom, ochmistrzyni, strzelcom i stajennym,   Liczba samoglosek: i=4 a=2 o=3 y=2 e=2 
+853 I musial wszystkie dzienne rachunki przezierac,   Liczba samoglosek: i=6 u=2 a=3 y=1 e=5 
+854 Nareszcie rzekl Woznemu, ze sie chce rozbierac.   Liczba samoglosek: a=2 e=8 i=3 o=2 u=1 
+855 Wozny pas mu odwiazal, pas slucki, pas lity,   Liczba samoglosek: o=2 y=2 a=5 u=2 i=3 
+856 Przy ktorym swieca geste kutasy jak kity,   Liczba samoglosek: y=4 o=1 i=2 e=3 a=3 u=1 
+857 Z jednej strony zlotoglow w purpurowe kwiaty,   Liczba samoglosek: e=3 o=5 y=2 u=2 i=1 a=1 
+858 Na wywrot jedwab czarny, posrebrzany w kraty;   Liczba samoglosek: a=5 y=4 o=2 e=2 
+859 Pas taki mozna rownie klasc na strony obie:   Liczba samoglosek: a=5 i=3 o=4 e=2 y=1 
+860 Zlota na dzien galowy, a czarna w zalobie.   Liczba samoglosek: o=3 a=7 i=2 e=2 y=1 
+861 Sam Wozny umial pas ten odwiazywac, skladac;   Liczba samoglosek: a=7 o=2 y=2 u=1 i=2 e=1 
+862 Wlasnie tym sie zatrudnial i konczyl tak gadac:   Liczba samoglosek: a=6 i=4 e=2 y=2 u=1 o=1 
+863 "Coz zlego, ze przenioslem stoly do zamczyska?   Liczba samoglosek: o=5 e=4 i=1 y=2 a=2 
+864 Nikt na tem nic nie stracil, a Pan moze zyska,   Liczba samoglosek: i=4 a=5 e=3 o=1 y=1 
+865 Bo przeciez o ten zamek dzis toczy sie sprawa.   Liczba samoglosek: o=3 e=5 i=3 a=3 y=1 
+866 My od dzisiaj do zamku nabylismy prawa,   Liczba samoglosek: y=3 o=2 i=3 a=5 u=1 
+867 I mimo cala strony przeciwnej zajadlosc   Liczba samoglosek: i=3 o=3 a=4 y=1 e=2 
+868 Dowiode, ze zamczysko wzielismy w posiadlosc.   Liczba samoglosek: o=5 i=4 e=3 a=2 y=2 
+869 Wszakze kto gosci prosi w zamek na wieczerze,   Liczba samoglosek: a=3 e=5 o=3 i=3 
+870 Dowodzi, ze posiadlosc tam ma albo bierze;   Liczba samoglosek: o=5 i=3 e=3 a=4 
+871 Nawet strony przeciwne wezwiemy na swiadki:   Liczba samoglosek: a=3 e=5 o=1 y=2 i=4 
+872 Pamietam za mych czasow podobne wypadki".   Liczba samoglosek: a=5 i=2 e=2 y=2 o=3 
+873 Juz Sedzia spal. Wiec Wozny cicho wszedl do sieni,   Liczba samoglosek: u=1 e=4 i=5 a=2 o=3 y=1 
+874 Siadl przy swiecy i dobyl ksiazeczke z kieszeni,   Liczba samoglosek: i=6 a=2 y=3 e=5 o=1 
+875 Ktora mu jak Oltarzyk zloty zawsze sluzy,   Liczba samoglosek: o=3 a=4 u=2 y=3 e=1 
+876 Ktorej nigdy nie rzuca w domu i w podrozy.   Liczba samoglosek: o=4 e=2 i=3 y=2 u=2 a=1 
+877 Byla to trybunalska wokanda: tam rzedem   Liczba samoglosek: y=2 a=6 o=2 u=1 e=2 
+878 Staly spisane sprawy, ktore przed urzedem   Liczba samoglosek: a=3 y=2 i=1 e=5 o=1 u=1 
+879 Wozny sam glosem swoim przed laty wywolal   Liczba samoglosek: o=4 y=3 a=3 e=2 i=1 
+880 Albo o ktorych pozniej dowiedziec sie zdolal.   Liczba samoglosek: a=2 o=6 y=1 i=4 e=4 
+881 Prostym ludziom wokanda zda sie imion spisem,   Liczba samoglosek: o=4 y=1 u=1 i=5 a=3 e=2 
+882 Woznemu jest obrazow wspanialych zarysem.   Liczba samoglosek: o=3 e=3 u=1 a=4 i=1 y=2 
+883 Czytal wiec i rozmyslal: Oginski z Wizgirdem,   Liczba samoglosek: y=2 a=2 i=6 e=2 o=2 
+884 Dominikanie z Rymsza, Rymsza z Wysogierdem,   Liczba samoglosek: o=2 i=4 a=3 e=3 y=3 
+885 Radziwill z Wereszczaka, Giedrojc z Rodultowskim,   Liczba samoglosek: a=3 i=4 e=3 o=3 u=1 
+886 Obuchowicz z kahalem, Juracha z Piotrowskim,   Liczba samoglosek: o=4 u=2 i=3 a=4 e=1 
+887 Maleski z Mickiewiczem, a na koniec Hrabia   Liczba samoglosek: a=5 e=4 i=6 o=1 
+888 Z Soplica: i czytajac, z tych imion wywabia   Liczba samoglosek: o=2 i=5 a=5 y=3 
+889 Pamiec spraw wielkich, wszystkie procesu wypadki,   Liczba samoglosek: a=3 i=5 e=4 y=2 o=1 u=1 
+890 I staja mu przed oczy sad, strony i swiadki;   Liczba samoglosek: i=4 a=4 u=1 e=1 o=2 y=2 
+891 I oglada sam siebie, jak w zupanie bialym,   Liczba samoglosek: i=5 o=1 a=6 e=3 u=1 y=1 
+892 W granatowym kontuszu stal przed trybunalem;   Liczba samoglosek: a=4 o=2 y=2 u=3 e=2 
+893 Jedna reka na szabli, a druga do stola   Liczba samoglosek: e=2 a=7 i=1 u=1 o=2 
+894 Przywolawszy dwie strony: "Uciszcie sie!" wola.   Liczba samoglosek: y=3 o=3 a=2 i=4 e=3 u=1 
+895 Marzac i konczac pacierz wieczorny, pomalu   Liczba samoglosek: a=5 i=3 o=3 e=2 y=1 u=1 
+896 Usnal ostatni w Litwie Wozny trybunalu.   Liczba samoglosek: u=3 a=3 o=2 i=3 e=1 y=2 
+897 Takie byly zabawy, spory w one lata   Liczba samoglosek: a=5 i=1 e=2 y=4 o=2 
+898 srod cichej wsi litewskiej, kiedy reszta swiata   Liczba samoglosek: o=1 i=6 e=5 y=1 a=3 
+899 We lzach i krwi tonela, gdy ow maz, bog wojny,   Liczba samoglosek: e=2 a=3 i=2 o=4 y=2 
+900 Otoczon chmura pulkow, tysiacem dzial zbrojny,   Liczba samoglosek: o=5 u=2 a=3 y=2 i=2 e=1 
+901 Wprzaglszy w swoj rydwan orly zlote obok srebrnych,   Liczba samoglosek: a=2 y=4 o=5 e=2 
+902 Od puszcz libijskich latal do Alpow podniebnych,   Liczba samoglosek: o=4 u=1 i=4 a=3 e=1 y=1 
+903 Ciskajac grom po gromie: w Piramidy, w Tabor,   Liczba samoglosek: i=4 a=4 o=4 e=1 y=1 
+904 W Marengo, w Ulm, w Austerlitz. Zwyciestwo i Zabor   Liczba samoglosek: a=3 e=3 o=3 u=2 i=3 y=1 
+905 Biegly przed nim i za nim. Slawa czynow tylu,   Liczba samoglosek: i=4 e=2 y=3 a=3 o=1 u=1 
+906 Brzemienna imionami rycerzy, od Nilu   Liczba samoglosek: e=3 i=5 a=2 o=2 y=2 u=1 
+907 Szla huczac ku polnocy, az u Niemna brzegow   Liczba samoglosek: a=4 u=3 o=3 y=1 i=1 e=2 
+908 Odbila sie, jak od skal, od Moskwy szeregow,   Liczba samoglosek: o=5 i=2 a=3 e=3 y=1 
+909 Ktore bronily Litwe murami zelaza   Liczba samoglosek: o=2 e=3 i=3 y=1 u=1 a=3 
+910 Przed wiescia dla Rosyi straszna jak zaraza.   Liczba samoglosek: e=2 i=3 a=8 o=1 y=1 
+911 Przeciez nieraz nowina, niby kamien z nieba,   Liczba samoglosek: e=5 i=6 a=4 o=1 y=1 
+912 Spadala w Litwe; nieraz dziad zebrzacy chleba,   Liczba samoglosek: a=7 i=3 e=4 y=1 
+913 Bez reki lub bez nogi, przyjawszy jalmuzne,   Liczba samoglosek: e=4 i=2 u=2 o=1 y=2 a=2 
+914 Stanal i oczy wkolo obracal ostrozne.   Liczba samoglosek: a=4 i=1 o=6 y=1 e=1 
+915 Gdy nie widzial we dworze rosyjskich zolnierzy   Liczba samoglosek: y=3 i=5 e=4 a=1 o=3 
+916 Ani jarmulek, ani czerwonych kolnierzy,   Liczba samoglosek: a=3 i=3 u=1 e=3 o=2 y=2 
+917 Wtenczas, kim byl, wyznawal: byl legijonista,   Liczba samoglosek: e=2 a=4 i=3 y=3 o=1 
+918 Przynosil kosci stare na ziemie ojczysta,   Liczba samoglosek: y=2 o=3 i=4 a=3 e=3 
+919 Ktorej juz bronic nie mogl... Jak go wtenczas cala   Liczba samoglosek: o=4 e=3 u=1 i=2 a=4 
+920 Rodzina panska, jak go czeladka sciskala,   Liczba samoglosek: o=2 i=2 a=8 e=1 
+921 Zanoszac sie od placzu! On za stolem siadal   Liczba samoglosek: a=6 o=4 i=2 e=2 u=1 
+922 I dziwniejsze od basni historyje gadal.   Liczba samoglosek: i=5 e=3 o=2 a=3 y=1 
+923 On opowiadal, jako jeneral Dabrowski   Liczba samoglosek: o=5 i=2 a=5 e=2 
+924 Z ziemi wloskiej stara sie przyciagnac do Polski,   Liczba samoglosek: i=6 e=3 o=3 a=4 y=1 
+925 Jak on rodakow zbiera na Lombardzkiem polu;   Liczba samoglosek: a=5 o=5 i=2 e=2 u=1 
+926 Jak Kniaziewicz rozkazy daje z Kapitolu   Liczba samoglosek: a=5 i=4 e=2 o=2 y=1 u=1 
+927 I zwyciezca, wydartych potomkom Cezarow   Liczba samoglosek: i=2 y=3 e=2 a=3 o=4 
+928 Rzucil w oczy Francuzow sto krwawych sztandarow;   Liczba samoglosek: u=2 i=1 o=4 y=2 a=4 
+929 Jak Jablonowski zabiegl, az kedy pieprz rosnie,   Liczba samoglosek: a=4 o=3 i=4 e=4 y=1 
+930 Gdzie sie cukier wytapia i gdzie w wiecznej wiosnie   Liczba samoglosek: i=9 e=7 u=1 y=1 a=2 o=1 
+931 Pachnace kwitna lasy; z legija Dunaju   Liczba samoglosek: a=6 e=2 i=2 y=1 u=2 
+932 Tam wodz Murzyny gromi, a wzdycha do kraju.   Liczba samoglosek: a=4 o=3 u=2 y=3 i=1 
+933 Mowy starca krazyly we wsi po kryjomu;   Liczba samoglosek: o=3 y=4 a=3 e=1 i=1 u=1 
+934 Chlopiec, co je poslyszal, znikal nagle z domu,   Liczba samoglosek: o=4 i=2 e=3 y=1 a=3 u=1 
+935 Lasami i bagnami skradal sie tajemnie,   Liczba samoglosek: a=7 i=5 e=3 
+936 scigany od Moskali, skakal kryc sie w Niemnie   Liczba samoglosek: i=5 a=4 y=2 o=2 e=3 
+937 I nurkiem plynal na brzeg Ksiestwa Warszawskiego,   Liczba samoglosek: i=4 u=1 e=4 y=1 a=5 o=1 
+938 Gdzie uslyszal glos mily: "Witaj nam, kolego!"   Liczba samoglosek: i=3 e=2 u=1 y=2 a=3 o=3 
+939 Lecz nim odszedl, wyskoczyl na wzgorek z kamienia   Liczba samoglosek: e=4 i=3 o=3 y=2 a=3 
+940 I Moskalom przez Niemen rzekl: "Do zobaczenia!"   Liczba samoglosek: i=3 o=4 a=3 e=5 
+941 Tak przekradl sie Gorecki, Pac i Obuchowicz,   Liczba samoglosek: a=3 e=3 i=4 o=3 u=1 
+942 Piotrowski, Obolewski, Rozycki, Janowicz,   Liczba samoglosek: i=5 o=6 e=1 y=1 a=1 
+943 Mirzejewscy, Brochocki i Bernatowicze,   Liczba samoglosek: i=4 e=4 y=1 o=3 a=1 
+944 Kupsc, Gedymin i inni, ktorych nie policze;   Liczba samoglosek: u=1 e=3 y=2 i=6 o=2 
+945 Opuszczali rodzicow i ziemie kochana,   Liczba samoglosek: o=4 u=1 a=3 i=5 e=2 
+946 I dobra, ktore na skarb carski zabierano.   Liczba samoglosek: i=3 o=3 a=6 e=2 
+947 Czasem do Litwy kwestarz z obcego klasztoru   Liczba samoglosek: a=3 e=3 o=4 i=1 y=1 u=1 
+948 Przyszedl, i kiedy blizej poznal panow dworu,   Liczba samoglosek: y=2 e=3 i=3 o=3 a=2 u=1 
+949 Gazete im pokazal wypruta z szkaplerza;   Liczba samoglosek: a=6 e=3 i=1 o=1 y=1 u=1 
+950 Tam stala wypisana i liczba zolnierza,   Liczba samoglosek: a=7 y=1 i=4 o=1 e=1 
+951 I nazwisko kazdego wodza legijonu,   Liczba samoglosek: i=3 a=3 o=4 e=2 u=1 
+952 I kazdego z nich opis zwyciestwa lub zgonu.   Liczba samoglosek: i=4 a=2 e=2 o=3 y=1 u=2 
+953 Po wielu latach pierwszy raz miala rodzina   Liczba samoglosek: o=2 i=4 e=2 u=1 a=6 y=1 
+954 Wiesc o zyciu, o chwale i o smierci syna;   Liczba samoglosek: i=5 e=3 o=3 y=2 u=1 a=2 
+955 Bral dom zalobe, ale powiedziec nie smiano,   Liczba samoglosek: a=4 o=4 e=5 i=4 
+956 Po kim byla zaloba, tylko zgadywano   Liczba samoglosek: o=4 i=1 y=3 a=5 
+957 W okolicy; i tylko cichy smutek panow   Liczba samoglosek: o=4 i=3 y=3 u=1 e=1 a=1 
+958 Lub cicha radosc byla gazeta ziemianow.   Liczba samoglosek: u=1 i=3 a=6 o=2 y=1 e=2 
+959 Takim kwestarzem tajnym byl Robak podobno:   Liczba samoglosek: a=4 i=1 e=2 y=2 o=4 
+960 Czesto on z panem Sedzia rozmawial osobno;   Liczba samoglosek: e=3 o=6 a=4 i=2 
+961 Po tych rozmowach zawsze jakowas nowina   Liczba samoglosek: o=5 y=1 a=5 e=1 i=1 
+962 Rozeszla sie w sasiedztwie. Postac Bernardyna   Liczba samoglosek: o=2 e=5 a=5 i=3 y=1 
+963 Wydawala, ze mnich ten nie zawsze w kapturze   Liczba samoglosek: y=1 a=5 e=5 i=2 u=1 
+964 Chodzil i nie w klasztornym zestarzal sie murze.   Liczba samoglosek: o=2 i=4 e=4 a=3 y=1 u=1 
+965 Mial on nad prawym uchem, nieco wyzej skroni,   Liczba samoglosek: i=3 a=3 o=3 y=2 u=1 e=3 
+966 Blizne wycietej skory na szerokosc dloni   Liczba samoglosek: i=3 e=4 y=2 o=4 a=1 
+967 I w brodzie slad niedawny lancy lub postrzalu;   Liczba samoglosek: i=3 o=2 e=2 a=4 y=2 u=2 
+968 Ran tych nie dostal pewnie przy czytaniu mszalu.   Liczba samoglosek: a=4 y=3 i=3 e=3 o=1 u=2 
+969 Ale nie tylko grozne wejrzenie i blizny,   Liczba samoglosek: a=1 e=6 i=4 y=2 o=2 
+970 Lecz sam ruch i glos jego mial cos zolnierszczyzny.   Liczba samoglosek: e=3 a=2 u=1 i=3 o=4 y=2 
+971 Przy mszy, gdy z wzniesionymi zwracal sie rekami   Liczba samoglosek: y=4 i=5 e=3 o=1 a=3 
+972 Od oltarza do ludu, by mowic: "Pan z wami",   Liczba samoglosek: o=4 a=4 u=2 y=1 i=2 
+973 To nieraz tak sie zrecznie skrecil jednym razem,   Liczba samoglosek: o=1 i=4 e=7 a=3 y=1 
+974 Jakby "prawo w tyl" robil za wodza rozkazem,   Liczba samoglosek: a=5 y=2 o=4 i=1 e=1 
+975 I slowa liturgiji takim wyrzekl tonem   Liczba samoglosek: i=5 o=2 a=2 u=1 y=1 e=2 
+976 Do ludu, jak oficer stojac przed szwadronem;   Liczba samoglosek: o=4 u=2 a=3 i=1 e=3 
+977 Postrzegali to chlopcy sluzacy mu do mszy.   Liczba samoglosek: o=4 e=1 a=2 i=1 y=3 u=2 
+978 Spraw takze politycznych byl Robak swiadomszy   Liczba samoglosek: a=4 e=1 o=3 i=2 y=4 
+979 Nizli zywotow swietych, a jezdzac po kwescie,   Liczba samoglosek: i=4 y=2 o=3 e=4 a=2 
+980 Czesto zastanawial sie w powiatowem miescie;   Liczba samoglosek: e=5 o=3 a=5 i=5 
+981 Mial pelno interesow: to listy odbieral,   Liczba samoglosek: i=4 a=2 e=4 o=4 y=1 
+982 Ktorych nigdy przy obcych ludziach nie otwieral,   Liczba samoglosek: o=3 y=4 i=4 u=1 a=2 e=2 
+983 To wysylal poslancow, ale gdzie i po co,   Liczba samoglosek: o=5 y=2 a=3 e=2 i=2 
+984 Nie powiadal; czestokroc wymykal sie noca   Liczba samoglosek: i=3 e=3 o=4 a=4 y=2 
+985 Do dworow panskich, z szlachta ustawicznie szeptal   Liczba samoglosek: o=3 a=5 i=3 u=1 e=2 
+986 I okoliczne wioski dokola wydeptal,   Liczba samoglosek: i=4 o=5 e=2 a=2 y=1 
+987 I w karczmach z wiesniakami rozprawial niemalo,   Liczba samoglosek: i=6 a=7 e=2 o=2 
+988 A zawsze o tem, co sie w cudzych krajach dzialo.   Liczba samoglosek: a=5 e=3 o=3 i=2 u=1 y=1 
+989 Teraz Sedziego, ktory juz spal od godziny,   Liczba samoglosek: e=3 a=2 i=2 o=4 y=2 u=1 
+990 Przychodzi budzic; pewnie ma jakies nowiny.   Liczba samoglosek: y=2 o=2 i=5 u=1 e=3 a=2 
+Wszystkie znaki: 
+L=29,
+i=2889,
+t=1044,
+w=1439,
+o=2764,
+!=54,
+ =5805,
+O=65,
+j=609,
+c=1554,
+z=2629,
+y=1342,
+n=1741,
+m=1048,
+a=3506,
+e=2952,
+s=1732,
+k=1190,
+d=1239,
+r=1475,
+.=247,
+I=90,
+l=1674,
+b=500,
+,=879,
+K=46,
+D=56,
+p=789,
+W=149,
+u=745,
+P=141,
+C=44,
+h=361,
+B=73,
+T=104,
+g=445,
+N=56,
+J=52,
+(=11,
+G=40,
+f=34,
+)=11,
+S=105,
+;=171,
+A=55,
+Z=45,
+U=19,
+:=60,
+R=41,
+F=9,
+M=42,
+?=16,
+-=21,
+"=52,
+H=14,

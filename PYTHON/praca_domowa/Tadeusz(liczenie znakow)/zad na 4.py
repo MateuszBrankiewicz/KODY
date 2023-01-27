@@ -3,7 +3,7 @@
 # pt_OK ma: 44281 bajtów
 
 
-plik_we = open('pt_OK.txt', 'r')
+plik_we = open('C:\\Users\\Szef\\Desktop\\GIT\\KODY\PYTHON\\praca_domowa\\Tadeusz(liczenie znakow)\\pt_OK.txt', 'r')
 dane = plik_we.read().split("\n")
 plik_wy = open('pt_wyjscie.txt', 'w')
 

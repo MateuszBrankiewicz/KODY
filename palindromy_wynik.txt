@@ -1,0 +1,34 @@
+0 oko oko - Jest palindromem!
+1 sedes sedes - Jest palindromem!
+2 rotor rotor - Jest palindromem!
+3 mama amam - Nie jest palindromem!
+4 alamakota atokamala - Nie jest palindromem!
+5 zakopanenapokaz zakopanenapokaz - Jest palindromem!
+6 nogawkajakwagon nogawkajakwagon - Jest palindromem!
+7 kobylamamalybok kobylamamalybok - Jest palindromem!
+8 bylonieminelo olenimeinolyb - Nie jest palindromem!
+9 zakopanenapokaz zakopanenapokaz - Jest palindromem!
+10 atokanapapanakota atokanapapanakota - Jest palindromem!
+11 tolomasamolot tolomasamolot - Jest palindromem!
+12 latalatolatoto ototalotalatal - Nie jest palindromem!
+13 matarapatytaparatam matarapatytaparatam - Jest palindromem!
+14 atoidiota atoidiota - Jest palindromem!
+15 atakkata atakkata - Jest palindromem!
+16 satyrarotatorarytas satyrarotatorarytas - Jest palindromem!
+17 anajutrotortujana anajutrotortujana - Jest palindromem!
+18 matakifasonosafikatam matakifasonosafikatam - Jest palindromem!
+19 popijatutajipop popijatutajipop - Jest palindromem!
+20 ilabanabali ilabanabali - Jest palindromem!
+21 karaibawabiarak karaibawabiarak - Jest palindromem!
+22 onarysy³ysyrano onarysy³ysyrano - Jest palindromem!
+23 aktokotamatokotka aktokotamatokotka - Jest palindromem!
+24 asalogujugolasa asalogujugolasa - Jest palindromem!
+25 otdancingnicnadto otdancingnicnadto - Jest palindromem!
+26 aramoklamalkomara aramoklamalkomara - Jest palindromem!
+27 ejelatenurbanmechcicalymylacichcemnabrunetaleje ejelatenurbanmechcicalymylacichcemnabrunetaleje - Jest palindromem!
+28 julamakakamaluj julamakakamaluj - Jest palindromem!
+29 atumamodêdomamuta atumamodêdomamuta - Jest palindromem!
+30 topostospsotsopot topostospsotsopot - Jest palindromem!
+31 sokarbuzagazubrakos sokarbuzagazubrakos - Jest palindromem!
+32 ranosumadamusonar ranosumadamusonar - Jest palindromem!
+33 ejulumyszsymuluje ejulumyszsymuluje - Jest palindromem!
