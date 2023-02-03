@@ -1,40 +1,40 @@
-def euclidean_gcd(a, b):
-    while b:
-        a, b = b, a % b
-    return a
-
-def find_nq_and_u(u0, u1,u,a):
-    for n in range(max(u), 2**70, 1):
-        for q in range(1, n):
-            if euclidean_gcd(n, q) == 1:
-                U0 = (u0 * q) % n
-                U1 = (u1 * q) % n
-                if U0 == a[0] and U1 == a[1]:
-                    for i in range(2, len(a)):
-                        q_1 = reverse_q(q, n)
-                        u[i] = (a[i] * q_1) % n
-                    return n, q, u
-                else:
-                    pass
-            else:
-                pass
+def decrypt_message(n, U, a, encrypted_message, k):
+    decrypted_text = []
+    for k_index in range(k):
+        for i in range(2**n):
+            b = [int(j) for j in bin(i)[2:].zfill(n)]
+            if sum([b[j % n] * a[j % n] for j in range(n)]) == encrypted_message[k_index]:
+                j = 0
+                for i in range(0, n * k, 8):
+                    chunk = "".join([str(bit) for bit in b[j:j + 8]])
+                    j += 8
+                    if chunk:
+                        ascii_value = int(chunk, 2)
+                        if 32 <= ascii_value <= 127:
+                            decrypted_text.append(chr(ascii_value))
+    return "".join(decrypted_text) if decrypted_text else None
 
 
-def reverse_q(q, n):
-    for i in range(1, n):
-        if (q * i) % n == 1:
-            return i
-    return None
+def stworz_klucz_publiczny(dane, n):
+    klucz_publiczny = []
+    for i in dane[2:n+2]:
+        klucz_publiczny.append(int(i))
+    return klucz_publiczny
 
-# Iterowanie przez wszystkie możliwe kombinacje u0 i u1
-a = [275, 9, 18, 169, 214, 20, 31, 337]
-# a = [120833, 241638, 112, 241792, 242002, 121617, 243248, 3304, 248190, 13216, 26418, 52850, 105700, 332191, 60385, 241589]
-for u0 in range(1, 20):
-    for u1 in range(2, 21):
-        #u = [u0, u1, 0, 0, 0, 0, 0, 0]
-        u = [u0, u1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
-        nq_u = find_nq_and_u(u0, u1, u, a)
-        if nq_u[0] > sum(nq_u[2]):
-            print("N:", nq_u[0], "Q:", nq_u[1], "U:", nq_u[2])
-            break
-    break
+
+def stworz_wiadomosc(dane, n):
+    wiadomosc = []
+    for i in dane[n+3::]:
+        wiadomosc.append(int(i))
+    return wiadomosc
+
+
+dane = open("./testy/test1.txt", "r")
+tablica = dane.read().split()
+n = int(tablica[0])
+U = int(tablica[1])
+a = stworz_klucz_publiczny(tablica, n)
+k = int(tablica[n+2])
+m = stworz_wiadomosc(tablica, n)
+print(decrypt_message(n, U, a, m, k))
+dane.close()
