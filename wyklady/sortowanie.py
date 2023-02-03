@@ -26,32 +26,32 @@
 #----------------------------------------------------------------
 #QUICKSORT szybkie sortowania dzielimy na pol poprzez pivota i przestawiamy pokolei wyrazy 
 
-# def qs(tab, l, p):
-#     pivot = int  
-#     pivot = tab[(l + p)//2]
-#     i = l
-#     j = p
-#     while i<=j:
-#         while tab[i]< pivot:
-#             i+=1
-#         while tab[j] > pivot:
-#             j -= 1
-#         if i<=j:
-#             tmp = tab[i]
-#             tab[i] = tab[j]
-#             tab[j] = tmp
-#             i+=1
-#             j -= 1
-#             print(tab)
-#     if l < j:
-#         qs(tab, l, j)
-#     if i < p:
-#         qs(tab,i, p)
+def qs(tab, l, p):
+    pivot = int  
+    pivot = tab[(l + p)//2]
+    i = l
+    j = p
+    while i<=j:
+        while tab[i]< pivot:
+            i+=1
+        while tab[j] > pivot:
+            j -= 1
+        if i<=j:
+            tmp = tab[i]
+            tab[i] = tab[j]
+            tab[j] = tmp
+            i+=1
+            j -= 1
+            print(tab)
+    if l < j:
+        qs(tab, l, j)
+    if i < p:
+        qs(tab,i, p)
         
-# tab= [9,9,82,1,2,3,4,5,6,7,8,12]
-# print(tab)
-# qs(tab, 0, len(tab)-1)
-# print(tab)
+tab= [9,9,82,1,2,3,4,5,6,7,8,12]
+print(tab)
+qs(tab, 0, len(tab)-1)
+print(tab)
 #--------------------------------------------------------------------------------------
 
 
