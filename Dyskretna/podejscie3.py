@@ -1,9 +1,21 @@
 def decrypt_message(n, U, a, encrypted_message, k):
+    a_half = n // 2
+    a_first_half = a[:a_half]
+    a_second_half = a[a_half:]
+
+    a_half_values = {}
+    for i in range(2 ** a_half):
+        b = [int(j) for j in bin(i)[2:].zfill(a_half)]
+        a_half_values[sum([b[j] * a_first_half[j] for j in range(a_half)])] = b
+
     decrypted_text = []
     for k_index in range(k):
-        for i in range(pow(2,n)):
-            b = [int(j) for j in bin(i)[2:].zfill(n)]
-            if sum([b[j % n] * a[j % n] for j in range(n)]) == encrypted_message[k_index]:
+        x = encrypted_message[k_index]
+        for i in range(2 ** (n - a_half)):
+            b = [int(j) for j in bin(i)[2:].zfill(n - a_half)]
+            y = sum([b[j] * a_second_half[j] for j in range(n - a_half)])
+            if x - y in a_half_values:
+                b = a_half_values[x - y] + b
                 j = 0
                 for i in range(0, n * k, 8):
                     chunk = "".join([str(bit) for bit in b[j:j + 8]])
