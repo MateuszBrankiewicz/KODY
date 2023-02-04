@@ -1,7 +1,7 @@
 def decrypt_message(n, U, a, encrypted_message, k):
     decrypted_text = []
     for k_index in range(k):
-        for i in range(2**n):
+        for i in range(pow(2,n)):
             b = [int(j) for j in bin(i)[2:].zfill(n)]
             if sum([b[j % n] * a[j % n] for j in range(n)]) == encrypted_message[k_index]:
                 j = 0
@@ -29,7 +29,7 @@ def stworz_wiadomosc(dane, n):
     return wiadomosc
 
 
-dane = open("./testy/test1.txt", "r")
+dane = open("C:\\Users\\Szef\\Desktop\\GIT\\KODY\\Dyskretna\\testy\\test3.txt", "r")
 tablica = dane.read().split()
 n = int(tablica[0])
 U = int(tablica[1])
